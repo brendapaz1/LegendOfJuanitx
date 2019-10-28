@@ -13,13 +13,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2019-10-28T00:11:03.552-07:00
-  initializedAtString: 2019-10-28T00:11:03.475-07:00
+  lastUpdatedAtString: 2019-10-28T16:08:11.014-07:00
+  initializedAtString: 2019-10-28T13:51:00.738-07:00
   localBranches:
-  - name: brenda
-    tracking: 
+  - name: master
+    tracking: origin/master
+  - name: sara
+    tracking: origin/sara
   remoteBranches:
-  - name: origin/master
+  - name: origin/brenda
+    tracking: '[None]'
+  - name: origin/HEAD
+    tracking: '[None]'
+  - name: origin/sara
     tracking: '[None]'
   remotes:
   - name: origin
@@ -31,22 +37,40 @@ MonoBehaviour:
     token: 
   localConfigBranches:
     keys:
-    - brenda
+    - master
+    - sara
     values:
-    - name: brenda
+    - name: master
       remote:
-        name: 
-        url: 
-      trackingBranch: 
+        name: origin
+        url: https://github.com/brendapaz1/LegendOfJuanitx.git
+      trackingBranch: master
+    - name: sara
+      remote:
+        name: origin
+        url: https://github.com/brendapaz1/LegendOfJuanitx.git
+      trackingBranch: sara
   remoteConfigBranches:
     keys:
     - origin
     subKeys:
     - Values:
-      - master
+      - brenda
+      - HEAD
+      - sara
     subKeyValues:
     - Values:
-      - name: master
+      - name: brenda
+        remote:
+          name: origin
+          url: https://github.com/brendapaz1/LegendOfJuanitx.git
+        trackingBranch: 
+      - name: HEAD
+        remote:
+          name: origin
+          url: https://github.com/brendapaz1/LegendOfJuanitx.git
+        trackingBranch: 
+      - name: sara
         remote:
           name: origin
           url: https://github.com/brendapaz1/LegendOfJuanitx.git
