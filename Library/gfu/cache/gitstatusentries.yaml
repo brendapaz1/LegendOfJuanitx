@@ -13,12 +13,31 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2019-10-28T14:33:01.846-07:00
+  lastUpdatedAtString: 2019-10-28T14:48:00.964-07:00
   initializedAtString: 2019-10-28T00:08:51.308-07:00
   entries:
+  - path: .DS_Store
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/.DS_Store
+    projectPath: .DS_Store
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Assets/Scenes/Fight.unity
     fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Assets/Scenes/Fight.unity
     projectPath: Assets/Scenes/Fight.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Scenes/Market.unity
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Assets/Scenes/Market.unity
+    projectPath: Assets/Scenes/Market.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Udemy RPG Assets/Art/NPC Characters.png.meta
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Assets/Udemy RPG Assets/Art/NPC
+      Characters.png.meta
+    projectPath: Assets/Udemy RPG Assets/Art/NPC Characters.png.meta
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -38,35 +57,1325 @@ MonoBehaviour:
     fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Library/gfu/cache/branches.yaml
     projectPath: Library/gfu/cache/branches.yaml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library/gfu/cache/gitlocks.yaml
     fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Library/gfu/cache/gitlocks.yaml
     projectPath: Library/gfu/cache/gitlocks.yaml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library/gfu/cache/gitlog.yaml
     fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Library/gfu/cache/gitlog.yaml
     projectPath: Library/gfu/cache/gitlog.yaml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library/gfu/cache/gitstatusentries.yaml
     fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Library/gfu/cache/gitstatusentries.yaml
     projectPath: Library/gfu/cache/gitstatusentries.yaml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library/gfu/cache/gittrackingstatus.yaml
     fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Library/gfu/cache/gittrackingstatus.yaml
     projectPath: Library/gfu/cache/gittrackingstatus.yaml
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/metadata/fb/fb8cc55af4b7a034584793949fd90500
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Library/metadata/fb/fb8cc55af4b7a034584793949fd90500
+    projectPath: Library/metadata/fb/fb8cc55af4b7a034584793949fd90500
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/metadata/fb/fb8cc55af4b7a034584793949fd90500.info
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Library/metadata/fb/fb8cc55af4b7a034584793949fd90500.info
+    projectPath: Library/metadata/fb/fb8cc55af4b7a034584793949fd90500.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/008b65da93878d24398fdc836e444766/asset
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/008b65da93878d24398fdc836e444766/asset
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/008b65da93878d24398fdc836e444766/asset
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/gfu/cache/repoinfo.yaml
-    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Library/gfu/cache/repoinfo.yaml
-    projectPath: Library/gfu/cache/repoinfo.yaml
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/008b65da93878d24398fdc836e444766/asset.meta
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/008b65da93878d24398fdc836e444766/asset.meta
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/008b65da93878d24398fdc836e444766/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/008b65da93878d24398fdc836e444766/pathname
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/008b65da93878d24398fdc836e444766/pathname
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/008b65da93878d24398fdc836e444766/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/008b65da93878d24398fdc836e444766/preview.png
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/008b65da93878d24398fdc836e444766/preview.png
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/008b65da93878d24398fdc836e444766/preview.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/0748c6c1a2e42384fbf5528186914c59/asset
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/0748c6c1a2e42384fbf5528186914c59/asset
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/0748c6c1a2e42384fbf5528186914c59/asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/0748c6c1a2e42384fbf5528186914c59/asset.meta
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/0748c6c1a2e42384fbf5528186914c59/asset.meta
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/0748c6c1a2e42384fbf5528186914c59/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/0748c6c1a2e42384fbf5528186914c59/pathname
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/0748c6c1a2e42384fbf5528186914c59/pathname
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/0748c6c1a2e42384fbf5528186914c59/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/0748c6c1a2e42384fbf5528186914c59/preview.png
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/0748c6c1a2e42384fbf5528186914c59/preview.png
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/0748c6c1a2e42384fbf5528186914c59/preview.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/0bc4ed27aef38a44bb72e80f9beb5326/asset
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/0bc4ed27aef38a44bb72e80f9beb5326/asset
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/0bc4ed27aef38a44bb72e80f9beb5326/asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/0bc4ed27aef38a44bb72e80f9beb5326/asset.meta
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/0bc4ed27aef38a44bb72e80f9beb5326/asset.meta
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/0bc4ed27aef38a44bb72e80f9beb5326/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/0bc4ed27aef38a44bb72e80f9beb5326/pathname
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/0bc4ed27aef38a44bb72e80f9beb5326/pathname
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/0bc4ed27aef38a44bb72e80f9beb5326/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/0bc4ed27aef38a44bb72e80f9beb5326/preview.png
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/0bc4ed27aef38a44bb72e80f9beb5326/preview.png
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/0bc4ed27aef38a44bb72e80f9beb5326/preview.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/16af20c94d442ab4c8bff6c6a7d1885f/asset
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/16af20c94d442ab4c8bff6c6a7d1885f/asset
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/16af20c94d442ab4c8bff6c6a7d1885f/asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/16af20c94d442ab4c8bff6c6a7d1885f/asset.meta
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/16af20c94d442ab4c8bff6c6a7d1885f/asset.meta
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/16af20c94d442ab4c8bff6c6a7d1885f/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/16af20c94d442ab4c8bff6c6a7d1885f/pathname
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/16af20c94d442ab4c8bff6c6a7d1885f/pathname
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/16af20c94d442ab4c8bff6c6a7d1885f/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/16af20c94d442ab4c8bff6c6a7d1885f/preview.png
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/16af20c94d442ab4c8bff6c6a7d1885f/preview.png
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/16af20c94d442ab4c8bff6c6a7d1885f/preview.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/1c6d3937a6785fd48aacd0d71d6f8c96/asset
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/1c6d3937a6785fd48aacd0d71d6f8c96/asset
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/1c6d3937a6785fd48aacd0d71d6f8c96/asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/1c6d3937a6785fd48aacd0d71d6f8c96/asset.meta
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/1c6d3937a6785fd48aacd0d71d6f8c96/asset.meta
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/1c6d3937a6785fd48aacd0d71d6f8c96/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/1c6d3937a6785fd48aacd0d71d6f8c96/pathname
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/1c6d3937a6785fd48aacd0d71d6f8c96/pathname
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/1c6d3937a6785fd48aacd0d71d6f8c96/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/1c6d3937a6785fd48aacd0d71d6f8c96/preview.png
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/1c6d3937a6785fd48aacd0d71d6f8c96/preview.png
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/1c6d3937a6785fd48aacd0d71d6f8c96/preview.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/1f9116e22515aa948949b63c34e431ce/asset.meta
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/1f9116e22515aa948949b63c34e431ce/asset.meta
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/1f9116e22515aa948949b63c34e431ce/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/1f9116e22515aa948949b63c34e431ce/pathname
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/1f9116e22515aa948949b63c34e431ce/pathname
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/1f9116e22515aa948949b63c34e431ce/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/25c318cd762cbc8499739ec7e05d521d/asset
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/25c318cd762cbc8499739ec7e05d521d/asset
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/25c318cd762cbc8499739ec7e05d521d/asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/25c318cd762cbc8499739ec7e05d521d/asset.meta
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/25c318cd762cbc8499739ec7e05d521d/asset.meta
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/25c318cd762cbc8499739ec7e05d521d/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/25c318cd762cbc8499739ec7e05d521d/pathname
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/25c318cd762cbc8499739ec7e05d521d/pathname
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/25c318cd762cbc8499739ec7e05d521d/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/25c318cd762cbc8499739ec7e05d521d/preview.png
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/25c318cd762cbc8499739ec7e05d521d/preview.png
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/25c318cd762cbc8499739ec7e05d521d/preview.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/2e06601d6168a084ca42ab37136eda4e/asset
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/2e06601d6168a084ca42ab37136eda4e/asset
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/2e06601d6168a084ca42ab37136eda4e/asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/2e06601d6168a084ca42ab37136eda4e/asset.meta
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/2e06601d6168a084ca42ab37136eda4e/asset.meta
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/2e06601d6168a084ca42ab37136eda4e/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/2e06601d6168a084ca42ab37136eda4e/pathname
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/2e06601d6168a084ca42ab37136eda4e/pathname
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/2e06601d6168a084ca42ab37136eda4e/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/2e06601d6168a084ca42ab37136eda4e/preview.png
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/2e06601d6168a084ca42ab37136eda4e/preview.png
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/2e06601d6168a084ca42ab37136eda4e/preview.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/2f9bae84e195bd643bd2015aec7140ba/asset.meta
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/2f9bae84e195bd643bd2015aec7140ba/asset.meta
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/2f9bae84e195bd643bd2015aec7140ba/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/2f9bae84e195bd643bd2015aec7140ba/pathname
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/2f9bae84e195bd643bd2015aec7140ba/pathname
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/2f9bae84e195bd643bd2015aec7140ba/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/383c375ad8e824a4a93f30ccccd7c7e0/asset
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/383c375ad8e824a4a93f30ccccd7c7e0/asset
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/383c375ad8e824a4a93f30ccccd7c7e0/asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/383c375ad8e824a4a93f30ccccd7c7e0/asset.meta
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/383c375ad8e824a4a93f30ccccd7c7e0/asset.meta
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/383c375ad8e824a4a93f30ccccd7c7e0/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/383c375ad8e824a4a93f30ccccd7c7e0/pathname
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/383c375ad8e824a4a93f30ccccd7c7e0/pathname
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/383c375ad8e824a4a93f30ccccd7c7e0/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/383c375ad8e824a4a93f30ccccd7c7e0/preview.png
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/383c375ad8e824a4a93f30ccccd7c7e0/preview.png
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/383c375ad8e824a4a93f30ccccd7c7e0/preview.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/3e63ec9f8f9512943bcb78513fc0d37a/asset
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/3e63ec9f8f9512943bcb78513fc0d37a/asset
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/3e63ec9f8f9512943bcb78513fc0d37a/asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/3e63ec9f8f9512943bcb78513fc0d37a/asset.meta
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/3e63ec9f8f9512943bcb78513fc0d37a/asset.meta
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/3e63ec9f8f9512943bcb78513fc0d37a/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/3e63ec9f8f9512943bcb78513fc0d37a/pathname
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/3e63ec9f8f9512943bcb78513fc0d37a/pathname
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/3e63ec9f8f9512943bcb78513fc0d37a/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/3e63ec9f8f9512943bcb78513fc0d37a/preview.png
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/3e63ec9f8f9512943bcb78513fc0d37a/preview.png
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/3e63ec9f8f9512943bcb78513fc0d37a/preview.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/3f51af3ade8505048a57a9928a2d2971/asset
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/3f51af3ade8505048a57a9928a2d2971/asset
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/3f51af3ade8505048a57a9928a2d2971/asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/3f51af3ade8505048a57a9928a2d2971/asset.meta
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/3f51af3ade8505048a57a9928a2d2971/asset.meta
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/3f51af3ade8505048a57a9928a2d2971/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/3f51af3ade8505048a57a9928a2d2971/pathname
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/3f51af3ade8505048a57a9928a2d2971/pathname
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/3f51af3ade8505048a57a9928a2d2971/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/3f51af3ade8505048a57a9928a2d2971/preview.png
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/3f51af3ade8505048a57a9928a2d2971/preview.png
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/3f51af3ade8505048a57a9928a2d2971/preview.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/3f8aafa307079da4f96d44d971f4575f/asset
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/3f8aafa307079da4f96d44d971f4575f/asset
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/3f8aafa307079da4f96d44d971f4575f/asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/3f8aafa307079da4f96d44d971f4575f/asset.meta
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/3f8aafa307079da4f96d44d971f4575f/asset.meta
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/3f8aafa307079da4f96d44d971f4575f/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/3f8aafa307079da4f96d44d971f4575f/pathname
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/3f8aafa307079da4f96d44d971f4575f/pathname
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/3f8aafa307079da4f96d44d971f4575f/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/3f8aafa307079da4f96d44d971f4575f/preview.png
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/3f8aafa307079da4f96d44d971f4575f/preview.png
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/3f8aafa307079da4f96d44d971f4575f/preview.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/416767b5bbdb3e24e8f385bece614050/asset
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/416767b5bbdb3e24e8f385bece614050/asset
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/416767b5bbdb3e24e8f385bece614050/asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/416767b5bbdb3e24e8f385bece614050/asset.meta
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/416767b5bbdb3e24e8f385bece614050/asset.meta
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/416767b5bbdb3e24e8f385bece614050/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/416767b5bbdb3e24e8f385bece614050/pathname
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/416767b5bbdb3e24e8f385bece614050/pathname
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/416767b5bbdb3e24e8f385bece614050/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/46fafbff8fcd05144944f2b2e3d7c9ef/asset
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/46fafbff8fcd05144944f2b2e3d7c9ef/asset
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/46fafbff8fcd05144944f2b2e3d7c9ef/asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/46fafbff8fcd05144944f2b2e3d7c9ef/asset.meta
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/46fafbff8fcd05144944f2b2e3d7c9ef/asset.meta
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/46fafbff8fcd05144944f2b2e3d7c9ef/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/46fafbff8fcd05144944f2b2e3d7c9ef/pathname
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/46fafbff8fcd05144944f2b2e3d7c9ef/pathname
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/46fafbff8fcd05144944f2b2e3d7c9ef/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/46fafbff8fcd05144944f2b2e3d7c9ef/preview.png
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/46fafbff8fcd05144944f2b2e3d7c9ef/preview.png
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/46fafbff8fcd05144944f2b2e3d7c9ef/preview.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/47ae1527db7c39f40834c28187b6ffef/asset
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/47ae1527db7c39f40834c28187b6ffef/asset
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/47ae1527db7c39f40834c28187b6ffef/asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/47ae1527db7c39f40834c28187b6ffef/asset.meta
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/47ae1527db7c39f40834c28187b6ffef/asset.meta
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/47ae1527db7c39f40834c28187b6ffef/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/47ae1527db7c39f40834c28187b6ffef/pathname
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/47ae1527db7c39f40834c28187b6ffef/pathname
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/47ae1527db7c39f40834c28187b6ffef/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/47ae1527db7c39f40834c28187b6ffef/preview.png
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/47ae1527db7c39f40834c28187b6ffef/preview.png
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/47ae1527db7c39f40834c28187b6ffef/preview.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/4c38a2b9041c88748add8abf7c31433c/asset
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/4c38a2b9041c88748add8abf7c31433c/asset
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/4c38a2b9041c88748add8abf7c31433c/asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/4c38a2b9041c88748add8abf7c31433c/asset.meta
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/4c38a2b9041c88748add8abf7c31433c/asset.meta
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/4c38a2b9041c88748add8abf7c31433c/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/4c38a2b9041c88748add8abf7c31433c/pathname
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/4c38a2b9041c88748add8abf7c31433c/pathname
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/4c38a2b9041c88748add8abf7c31433c/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/4c38a2b9041c88748add8abf7c31433c/preview.png
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/4c38a2b9041c88748add8abf7c31433c/preview.png
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/4c38a2b9041c88748add8abf7c31433c/preview.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/4fba08ef3410e104eba88785ab0726aa/asset.meta
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/4fba08ef3410e104eba88785ab0726aa/asset.meta
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/4fba08ef3410e104eba88785ab0726aa/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/4fba08ef3410e104eba88785ab0726aa/pathname
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/4fba08ef3410e104eba88785ab0726aa/pathname
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/4fba08ef3410e104eba88785ab0726aa/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/57e179c1b313ce3478e8d6ad02ef7982/asset
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/57e179c1b313ce3478e8d6ad02ef7982/asset
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/57e179c1b313ce3478e8d6ad02ef7982/asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/57e179c1b313ce3478e8d6ad02ef7982/asset.meta
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/57e179c1b313ce3478e8d6ad02ef7982/asset.meta
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/57e179c1b313ce3478e8d6ad02ef7982/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/57e179c1b313ce3478e8d6ad02ef7982/pathname
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/57e179c1b313ce3478e8d6ad02ef7982/pathname
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/57e179c1b313ce3478e8d6ad02ef7982/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/57e179c1b313ce3478e8d6ad02ef7982/preview.png
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/57e179c1b313ce3478e8d6ad02ef7982/preview.png
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/57e179c1b313ce3478e8d6ad02ef7982/preview.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/6dcb1eb4562a65148931fea6691976d0/asset
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/6dcb1eb4562a65148931fea6691976d0/asset
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/6dcb1eb4562a65148931fea6691976d0/asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/6dcb1eb4562a65148931fea6691976d0/asset.meta
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/6dcb1eb4562a65148931fea6691976d0/asset.meta
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/6dcb1eb4562a65148931fea6691976d0/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/6dcb1eb4562a65148931fea6691976d0/pathname
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/6dcb1eb4562a65148931fea6691976d0/pathname
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/6dcb1eb4562a65148931fea6691976d0/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/6dcb1eb4562a65148931fea6691976d0/preview.png
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/6dcb1eb4562a65148931fea6691976d0/preview.png
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/6dcb1eb4562a65148931fea6691976d0/preview.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/730d492efa8d6944194f432cbb9eeef6/asset
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/730d492efa8d6944194f432cbb9eeef6/asset
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/730d492efa8d6944194f432cbb9eeef6/asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/730d492efa8d6944194f432cbb9eeef6/asset.meta
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/730d492efa8d6944194f432cbb9eeef6/asset.meta
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/730d492efa8d6944194f432cbb9eeef6/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/730d492efa8d6944194f432cbb9eeef6/pathname
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/730d492efa8d6944194f432cbb9eeef6/pathname
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/730d492efa8d6944194f432cbb9eeef6/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/730d492efa8d6944194f432cbb9eeef6/preview.png
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/730d492efa8d6944194f432cbb9eeef6/preview.png
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/730d492efa8d6944194f432cbb9eeef6/preview.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/7384dec0e667b8643bee02d3ecaf659c/asset
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/7384dec0e667b8643bee02d3ecaf659c/asset
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/7384dec0e667b8643bee02d3ecaf659c/asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/7384dec0e667b8643bee02d3ecaf659c/asset.meta
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/7384dec0e667b8643bee02d3ecaf659c/asset.meta
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/7384dec0e667b8643bee02d3ecaf659c/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/7384dec0e667b8643bee02d3ecaf659c/pathname
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/7384dec0e667b8643bee02d3ecaf659c/pathname
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/7384dec0e667b8643bee02d3ecaf659c/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/7384dec0e667b8643bee02d3ecaf659c/preview.png
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/7384dec0e667b8643bee02d3ecaf659c/preview.png
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/7384dec0e667b8643bee02d3ecaf659c/preview.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/83a9ba5c3f0328e44a6a4b07424afa1a/asset.meta
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/83a9ba5c3f0328e44a6a4b07424afa1a/asset.meta
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/83a9ba5c3f0328e44a6a4b07424afa1a/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/83a9ba5c3f0328e44a6a4b07424afa1a/pathname
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/83a9ba5c3f0328e44a6a4b07424afa1a/pathname
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/83a9ba5c3f0328e44a6a4b07424afa1a/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/84b3bb40ee35ce74c8a8f5850dd74a5d/asset
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/84b3bb40ee35ce74c8a8f5850dd74a5d/asset
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/84b3bb40ee35ce74c8a8f5850dd74a5d/asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/84b3bb40ee35ce74c8a8f5850dd74a5d/asset.meta
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/84b3bb40ee35ce74c8a8f5850dd74a5d/asset.meta
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/84b3bb40ee35ce74c8a8f5850dd74a5d/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/84b3bb40ee35ce74c8a8f5850dd74a5d/pathname
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/84b3bb40ee35ce74c8a8f5850dd74a5d/pathname
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/84b3bb40ee35ce74c8a8f5850dd74a5d/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/84b3bb40ee35ce74c8a8f5850dd74a5d/preview.png
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/84b3bb40ee35ce74c8a8f5850dd74a5d/preview.png
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/84b3bb40ee35ce74c8a8f5850dd74a5d/preview.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/8843251b5a165c94bb97486035d025e2/asset
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/8843251b5a165c94bb97486035d025e2/asset
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/8843251b5a165c94bb97486035d025e2/asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/8843251b5a165c94bb97486035d025e2/asset.meta
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/8843251b5a165c94bb97486035d025e2/asset.meta
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/8843251b5a165c94bb97486035d025e2/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/8843251b5a165c94bb97486035d025e2/pathname
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/8843251b5a165c94bb97486035d025e2/pathname
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/8843251b5a165c94bb97486035d025e2/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/8843251b5a165c94bb97486035d025e2/preview.png
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/8843251b5a165c94bb97486035d025e2/preview.png
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/8843251b5a165c94bb97486035d025e2/preview.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/88ae461370fb3334d8f7009dad27cd8f/asset
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/88ae461370fb3334d8f7009dad27cd8f/asset
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/88ae461370fb3334d8f7009dad27cd8f/asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/88ae461370fb3334d8f7009dad27cd8f/asset.meta
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/88ae461370fb3334d8f7009dad27cd8f/asset.meta
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/88ae461370fb3334d8f7009dad27cd8f/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/88ae461370fb3334d8f7009dad27cd8f/pathname
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/88ae461370fb3334d8f7009dad27cd8f/pathname
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/88ae461370fb3334d8f7009dad27cd8f/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/88ae461370fb3334d8f7009dad27cd8f/preview.png
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/88ae461370fb3334d8f7009dad27cd8f/preview.png
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/88ae461370fb3334d8f7009dad27cd8f/preview.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/8b65a770ed12f0b419cb38759dbe1088/asset
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/8b65a770ed12f0b419cb38759dbe1088/asset
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/8b65a770ed12f0b419cb38759dbe1088/asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/8b65a770ed12f0b419cb38759dbe1088/asset.meta
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/8b65a770ed12f0b419cb38759dbe1088/asset.meta
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/8b65a770ed12f0b419cb38759dbe1088/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/8b65a770ed12f0b419cb38759dbe1088/pathname
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/8b65a770ed12f0b419cb38759dbe1088/pathname
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/8b65a770ed12f0b419cb38759dbe1088/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/8b65a770ed12f0b419cb38759dbe1088/preview.png
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/8b65a770ed12f0b419cb38759dbe1088/preview.png
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/8b65a770ed12f0b419cb38759dbe1088/preview.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/8c978d20fe98cec4488e9da6cd236186/asset.meta
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/8c978d20fe98cec4488e9da6cd236186/asset.meta
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/8c978d20fe98cec4488e9da6cd236186/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/8c978d20fe98cec4488e9da6cd236186/pathname
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/8c978d20fe98cec4488e9da6cd236186/pathname
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/8c978d20fe98cec4488e9da6cd236186/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/8f869558144fa734c98411acd460a42e/asset
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/8f869558144fa734c98411acd460a42e/asset
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/8f869558144fa734c98411acd460a42e/asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/8f869558144fa734c98411acd460a42e/asset.meta
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/8f869558144fa734c98411acd460a42e/asset.meta
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/8f869558144fa734c98411acd460a42e/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/8f869558144fa734c98411acd460a42e/pathname
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/8f869558144fa734c98411acd460a42e/pathname
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/8f869558144fa734c98411acd460a42e/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/8f869558144fa734c98411acd460a42e/preview.png
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/8f869558144fa734c98411acd460a42e/preview.png
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/8f869558144fa734c98411acd460a42e/preview.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/92609e186aa6f9347a6513f9b7766702/asset
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/92609e186aa6f9347a6513f9b7766702/asset
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/92609e186aa6f9347a6513f9b7766702/asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/92609e186aa6f9347a6513f9b7766702/asset.meta
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/92609e186aa6f9347a6513f9b7766702/asset.meta
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/92609e186aa6f9347a6513f9b7766702/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/92609e186aa6f9347a6513f9b7766702/pathname
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/92609e186aa6f9347a6513f9b7766702/pathname
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/92609e186aa6f9347a6513f9b7766702/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/92609e186aa6f9347a6513f9b7766702/preview.png
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/92609e186aa6f9347a6513f9b7766702/preview.png
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/92609e186aa6f9347a6513f9b7766702/preview.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/9589500635eeaef4fa211db6fa452780/asset
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/9589500635eeaef4fa211db6fa452780/asset
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/9589500635eeaef4fa211db6fa452780/asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/9589500635eeaef4fa211db6fa452780/asset.meta
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/9589500635eeaef4fa211db6fa452780/asset.meta
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/9589500635eeaef4fa211db6fa452780/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/9589500635eeaef4fa211db6fa452780/pathname
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/9589500635eeaef4fa211db6fa452780/pathname
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/9589500635eeaef4fa211db6fa452780/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/9589500635eeaef4fa211db6fa452780/preview.png
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/9589500635eeaef4fa211db6fa452780/preview.png
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/9589500635eeaef4fa211db6fa452780/preview.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/9706fa53d7a32914297d2dda9a0ffc71/asset
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/9706fa53d7a32914297d2dda9a0ffc71/asset
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/9706fa53d7a32914297d2dda9a0ffc71/asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/9706fa53d7a32914297d2dda9a0ffc71/asset.meta
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/9706fa53d7a32914297d2dda9a0ffc71/asset.meta
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/9706fa53d7a32914297d2dda9a0ffc71/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/9706fa53d7a32914297d2dda9a0ffc71/pathname
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/9706fa53d7a32914297d2dda9a0ffc71/pathname
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/9706fa53d7a32914297d2dda9a0ffc71/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/9706fa53d7a32914297d2dda9a0ffc71/preview.png
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/9706fa53d7a32914297d2dda9a0ffc71/preview.png
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/9706fa53d7a32914297d2dda9a0ffc71/preview.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/988d560df8d322a468c97243cbfd76e8/asset
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/988d560df8d322a468c97243cbfd76e8/asset
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/988d560df8d322a468c97243cbfd76e8/asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/988d560df8d322a468c97243cbfd76e8/asset.meta
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/988d560df8d322a468c97243cbfd76e8/asset.meta
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/988d560df8d322a468c97243cbfd76e8/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/988d560df8d322a468c97243cbfd76e8/pathname
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/988d560df8d322a468c97243cbfd76e8/pathname
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/988d560df8d322a468c97243cbfd76e8/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/988d560df8d322a468c97243cbfd76e8/preview.png
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/988d560df8d322a468c97243cbfd76e8/preview.png
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/988d560df8d322a468c97243cbfd76e8/preview.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/9b48087921594f549b905f28bcae1ea0/asset
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/9b48087921594f549b905f28bcae1ea0/asset
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/9b48087921594f549b905f28bcae1ea0/asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/9b48087921594f549b905f28bcae1ea0/asset.meta
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/9b48087921594f549b905f28bcae1ea0/asset.meta
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/9b48087921594f549b905f28bcae1ea0/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/9b48087921594f549b905f28bcae1ea0/pathname
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/9b48087921594f549b905f28bcae1ea0/pathname
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/9b48087921594f549b905f28bcae1ea0/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/9b48087921594f549b905f28bcae1ea0/preview.png
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/9b48087921594f549b905f28bcae1ea0/preview.png
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/9b48087921594f549b905f28bcae1ea0/preview.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/a592b59783305bb418cb9753c57d0e0b/asset
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/a592b59783305bb418cb9753c57d0e0b/asset
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/a592b59783305bb418cb9753c57d0e0b/asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/a592b59783305bb418cb9753c57d0e0b/asset.meta
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/a592b59783305bb418cb9753c57d0e0b/asset.meta
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/a592b59783305bb418cb9753c57d0e0b/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/a592b59783305bb418cb9753c57d0e0b/pathname
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/a592b59783305bb418cb9753c57d0e0b/pathname
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/a592b59783305bb418cb9753c57d0e0b/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/a592b59783305bb418cb9753c57d0e0b/preview.png
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/a592b59783305bb418cb9753c57d0e0b/preview.png
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/a592b59783305bb418cb9753c57d0e0b/preview.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/a6910b89779f96344a9d69933ce13e9e/asset
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/a6910b89779f96344a9d69933ce13e9e/asset
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/a6910b89779f96344a9d69933ce13e9e/asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/a6910b89779f96344a9d69933ce13e9e/asset.meta
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/a6910b89779f96344a9d69933ce13e9e/asset.meta
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/a6910b89779f96344a9d69933ce13e9e/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/a6910b89779f96344a9d69933ce13e9e/pathname
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/a6910b89779f96344a9d69933ce13e9e/pathname
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/a6910b89779f96344a9d69933ce13e9e/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/aa23ccecf7afed84992344037b2d727f/asset
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/aa23ccecf7afed84992344037b2d727f/asset
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/aa23ccecf7afed84992344037b2d727f/asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/aa23ccecf7afed84992344037b2d727f/asset.meta
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/aa23ccecf7afed84992344037b2d727f/asset.meta
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/aa23ccecf7afed84992344037b2d727f/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/aa23ccecf7afed84992344037b2d727f/pathname
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/aa23ccecf7afed84992344037b2d727f/pathname
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/aa23ccecf7afed84992344037b2d727f/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/aa23ccecf7afed84992344037b2d727f/preview.png
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/aa23ccecf7afed84992344037b2d727f/preview.png
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/aa23ccecf7afed84992344037b2d727f/preview.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/ac1b134abac16df4e8cbb927369f7b17/asset
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/ac1b134abac16df4e8cbb927369f7b17/asset
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/ac1b134abac16df4e8cbb927369f7b17/asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/ac1b134abac16df4e8cbb927369f7b17/asset.meta
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/ac1b134abac16df4e8cbb927369f7b17/asset.meta
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/ac1b134abac16df4e8cbb927369f7b17/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/ac1b134abac16df4e8cbb927369f7b17/pathname
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/ac1b134abac16df4e8cbb927369f7b17/pathname
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/ac1b134abac16df4e8cbb927369f7b17/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/ac1b134abac16df4e8cbb927369f7b17/preview.png
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/ac1b134abac16df4e8cbb927369f7b17/preview.png
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/ac1b134abac16df4e8cbb927369f7b17/preview.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/af6bc9dfbb9b08e4890cf8e4b8dd00c3/asset
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/af6bc9dfbb9b08e4890cf8e4b8dd00c3/asset
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/af6bc9dfbb9b08e4890cf8e4b8dd00c3/asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/af6bc9dfbb9b08e4890cf8e4b8dd00c3/asset.meta
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/af6bc9dfbb9b08e4890cf8e4b8dd00c3/asset.meta
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/af6bc9dfbb9b08e4890cf8e4b8dd00c3/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/af6bc9dfbb9b08e4890cf8e4b8dd00c3/pathname
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/af6bc9dfbb9b08e4890cf8e4b8dd00c3/pathname
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/af6bc9dfbb9b08e4890cf8e4b8dd00c3/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/af6bc9dfbb9b08e4890cf8e4b8dd00c3/preview.png
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/af6bc9dfbb9b08e4890cf8e4b8dd00c3/preview.png
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/af6bc9dfbb9b08e4890cf8e4b8dd00c3/preview.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/afe4fb6836b063346b1702757681eacd/asset
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/afe4fb6836b063346b1702757681eacd/asset
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/afe4fb6836b063346b1702757681eacd/asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/afe4fb6836b063346b1702757681eacd/asset.meta
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/afe4fb6836b063346b1702757681eacd/asset.meta
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/afe4fb6836b063346b1702757681eacd/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/afe4fb6836b063346b1702757681eacd/pathname
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/afe4fb6836b063346b1702757681eacd/pathname
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/afe4fb6836b063346b1702757681eacd/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/afe4fb6836b063346b1702757681eacd/preview.png
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/afe4fb6836b063346b1702757681eacd/preview.png
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/afe4fb6836b063346b1702757681eacd/preview.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/b56a402e5850ab14c92616d1f0d5bf8f/asset.meta
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/b56a402e5850ab14c92616d1f0d5bf8f/asset.meta
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/b56a402e5850ab14c92616d1f0d5bf8f/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/b56a402e5850ab14c92616d1f0d5bf8f/pathname
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/b56a402e5850ab14c92616d1f0d5bf8f/pathname
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/b56a402e5850ab14c92616d1f0d5bf8f/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/b60ffdbe9b35615459dc41ae9b627ef5/asset
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/b60ffdbe9b35615459dc41ae9b627ef5/asset
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/b60ffdbe9b35615459dc41ae9b627ef5/asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/b60ffdbe9b35615459dc41ae9b627ef5/asset.meta
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/b60ffdbe9b35615459dc41ae9b627ef5/asset.meta
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/b60ffdbe9b35615459dc41ae9b627ef5/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/b60ffdbe9b35615459dc41ae9b627ef5/pathname
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/b60ffdbe9b35615459dc41ae9b627ef5/pathname
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/b60ffdbe9b35615459dc41ae9b627ef5/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/b60ffdbe9b35615459dc41ae9b627ef5/preview.png
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/b60ffdbe9b35615459dc41ae9b627ef5/preview.png
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/b60ffdbe9b35615459dc41ae9b627ef5/preview.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/bb40847a296d3c9448adabae88ea6b5d/asset.meta
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/bb40847a296d3c9448adabae88ea6b5d/asset.meta
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/bb40847a296d3c9448adabae88ea6b5d/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/bb40847a296d3c9448adabae88ea6b5d/pathname
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/bb40847a296d3c9448adabae88ea6b5d/pathname
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/bb40847a296d3c9448adabae88ea6b5d/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/bc1d0034ebff3f149b28b486f3ed6e21/asset
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/bc1d0034ebff3f149b28b486f3ed6e21/asset
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/bc1d0034ebff3f149b28b486f3ed6e21/asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/bc1d0034ebff3f149b28b486f3ed6e21/asset.meta
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/bc1d0034ebff3f149b28b486f3ed6e21/asset.meta
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/bc1d0034ebff3f149b28b486f3ed6e21/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/bc1d0034ebff3f149b28b486f3ed6e21/pathname
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/bc1d0034ebff3f149b28b486f3ed6e21/pathname
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/bc1d0034ebff3f149b28b486f3ed6e21/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/bc1d0034ebff3f149b28b486f3ed6e21/preview.png
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/bc1d0034ebff3f149b28b486f3ed6e21/preview.png
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/bc1d0034ebff3f149b28b486f3ed6e21/preview.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/bd0bab372d7764a469e96ab68092bf9c/asset.meta
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/bd0bab372d7764a469e96ab68092bf9c/asset.meta
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/bd0bab372d7764a469e96ab68092bf9c/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/bd0bab372d7764a469e96ab68092bf9c/pathname
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/bd0bab372d7764a469e96ab68092bf9c/pathname
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/bd0bab372d7764a469e96ab68092bf9c/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/c56770f00164bb64a9ee4e332663f25b/asset.meta
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/c56770f00164bb64a9ee4e332663f25b/asset.meta
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/c56770f00164bb64a9ee4e332663f25b/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/c56770f00164bb64a9ee4e332663f25b/pathname
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/c56770f00164bb64a9ee4e332663f25b/pathname
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/c56770f00164bb64a9ee4e332663f25b/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/ca59c4b6a65722e428ea4e21db6ee8da/asset
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/ca59c4b6a65722e428ea4e21db6ee8da/asset
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/ca59c4b6a65722e428ea4e21db6ee8da/asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/ca59c4b6a65722e428ea4e21db6ee8da/asset.meta
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/ca59c4b6a65722e428ea4e21db6ee8da/asset.meta
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/ca59c4b6a65722e428ea4e21db6ee8da/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/ca59c4b6a65722e428ea4e21db6ee8da/pathname
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/ca59c4b6a65722e428ea4e21db6ee8da/pathname
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/ca59c4b6a65722e428ea4e21db6ee8da/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/ca59c4b6a65722e428ea4e21db6ee8da/preview.png
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/ca59c4b6a65722e428ea4e21db6ee8da/preview.png
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/ca59c4b6a65722e428ea4e21db6ee8da/preview.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/cbcfabd2b8025a84e92038a5857666a2/asset
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/cbcfabd2b8025a84e92038a5857666a2/asset
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/cbcfabd2b8025a84e92038a5857666a2/asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/cbcfabd2b8025a84e92038a5857666a2/asset.meta
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/cbcfabd2b8025a84e92038a5857666a2/asset.meta
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/cbcfabd2b8025a84e92038a5857666a2/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/cbcfabd2b8025a84e92038a5857666a2/pathname
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/cbcfabd2b8025a84e92038a5857666a2/pathname
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/cbcfabd2b8025a84e92038a5857666a2/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/cbcfabd2b8025a84e92038a5857666a2/preview.png
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/cbcfabd2b8025a84e92038a5857666a2/preview.png
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/cbcfabd2b8025a84e92038a5857666a2/preview.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/d330684629bb9cd4daa49df8677ff91f/asset
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/d330684629bb9cd4daa49df8677ff91f/asset
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/d330684629bb9cd4daa49df8677ff91f/asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/d330684629bb9cd4daa49df8677ff91f/asset.meta
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/d330684629bb9cd4daa49df8677ff91f/asset.meta
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/d330684629bb9cd4daa49df8677ff91f/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/d330684629bb9cd4daa49df8677ff91f/pathname
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/d330684629bb9cd4daa49df8677ff91f/pathname
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/d330684629bb9cd4daa49df8677ff91f/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/d330684629bb9cd4daa49df8677ff91f/preview.png
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/d330684629bb9cd4daa49df8677ff91f/preview.png
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/d330684629bb9cd4daa49df8677ff91f/preview.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/d50d11aa9af4fed4c9ae9d685514fe13/asset.meta
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/d50d11aa9af4fed4c9ae9d685514fe13/asset.meta
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/d50d11aa9af4fed4c9ae9d685514fe13/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/d50d11aa9af4fed4c9ae9d685514fe13/pathname
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/d50d11aa9af4fed4c9ae9d685514fe13/pathname
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/d50d11aa9af4fed4c9ae9d685514fe13/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/dd61146dbe36aa6449131fb544979165/asset
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/dd61146dbe36aa6449131fb544979165/asset
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/dd61146dbe36aa6449131fb544979165/asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/dd61146dbe36aa6449131fb544979165/asset.meta
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/dd61146dbe36aa6449131fb544979165/asset.meta
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/dd61146dbe36aa6449131fb544979165/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/dd61146dbe36aa6449131fb544979165/pathname
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/dd61146dbe36aa6449131fb544979165/pathname
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/dd61146dbe36aa6449131fb544979165/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/dd61146dbe36aa6449131fb544979165/preview.png
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/dd61146dbe36aa6449131fb544979165/preview.png
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/dd61146dbe36aa6449131fb544979165/preview.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/ddc10b3bc71a8424e8a206b496f69df6/asset
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/ddc10b3bc71a8424e8a206b496f69df6/asset
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/ddc10b3bc71a8424e8a206b496f69df6/asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/ddc10b3bc71a8424e8a206b496f69df6/asset.meta
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/ddc10b3bc71a8424e8a206b496f69df6/asset.meta
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/ddc10b3bc71a8424e8a206b496f69df6/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/ddc10b3bc71a8424e8a206b496f69df6/pathname
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/ddc10b3bc71a8424e8a206b496f69df6/pathname
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/ddc10b3bc71a8424e8a206b496f69df6/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/ddc10b3bc71a8424e8a206b496f69df6/preview.png
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/ddc10b3bc71a8424e8a206b496f69df6/preview.png
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/ddc10b3bc71a8424e8a206b496f69df6/preview.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/dfce6b7656338c244aefe65269df8585/asset
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/dfce6b7656338c244aefe65269df8585/asset
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/dfce6b7656338c244aefe65269df8585/asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/dfce6b7656338c244aefe65269df8585/asset.meta
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/dfce6b7656338c244aefe65269df8585/asset.meta
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/dfce6b7656338c244aefe65269df8585/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/dfce6b7656338c244aefe65269df8585/pathname
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/dfce6b7656338c244aefe65269df8585/pathname
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/dfce6b7656338c244aefe65269df8585/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/dfce6b7656338c244aefe65269df8585/preview.png
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/dfce6b7656338c244aefe65269df8585/preview.png
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/dfce6b7656338c244aefe65269df8585/preview.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/e0ddba6d3fcf21f49949fcc95c849aac/asset
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/e0ddba6d3fcf21f49949fcc95c849aac/asset
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/e0ddba6d3fcf21f49949fcc95c849aac/asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/e0ddba6d3fcf21f49949fcc95c849aac/asset.meta
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/e0ddba6d3fcf21f49949fcc95c849aac/asset.meta
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/e0ddba6d3fcf21f49949fcc95c849aac/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/e0ddba6d3fcf21f49949fcc95c849aac/pathname
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/e0ddba6d3fcf21f49949fcc95c849aac/pathname
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/e0ddba6d3fcf21f49949fcc95c849aac/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/e0ddba6d3fcf21f49949fcc95c849aac/preview.png
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/e0ddba6d3fcf21f49949fcc95c849aac/preview.png
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/e0ddba6d3fcf21f49949fcc95c849aac/preview.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/e4754514adbd07e4193d0f0644340870/asset
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/e4754514adbd07e4193d0f0644340870/asset
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/e4754514adbd07e4193d0f0644340870/asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/e4754514adbd07e4193d0f0644340870/asset.meta
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/e4754514adbd07e4193d0f0644340870/asset.meta
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/e4754514adbd07e4193d0f0644340870/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/e4754514adbd07e4193d0f0644340870/pathname
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/e4754514adbd07e4193d0f0644340870/pathname
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/e4754514adbd07e4193d0f0644340870/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/e4754514adbd07e4193d0f0644340870/preview.png
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/e4754514adbd07e4193d0f0644340870/preview.png
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/e4754514adbd07e4193d0f0644340870/preview.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/f30ae3365bfe40948b3aa69e1f9f63a7/asset
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/f30ae3365bfe40948b3aa69e1f9f63a7/asset
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/f30ae3365bfe40948b3aa69e1f9f63a7/asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/f30ae3365bfe40948b3aa69e1f9f63a7/asset.meta
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/f30ae3365bfe40948b3aa69e1f9f63a7/asset.meta
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/f30ae3365bfe40948b3aa69e1f9f63a7/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/f30ae3365bfe40948b3aa69e1f9f63a7/pathname
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/f30ae3365bfe40948b3aa69e1f9f63a7/pathname
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/f30ae3365bfe40948b3aa69e1f9f63a7/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/f30ae3365bfe40948b3aa69e1f9f63a7/preview.png
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/f30ae3365bfe40948b3aa69e1f9f63a7/preview.png
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/f30ae3365bfe40948b3aa69e1f9f63a7/preview.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/fb8cc55af4b7a034584793949fd90500/asset
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/fb8cc55af4b7a034584793949fd90500/asset
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/fb8cc55af4b7a034584793949fd90500/asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/fb8cc55af4b7a034584793949fd90500/asset.meta
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/fb8cc55af4b7a034584793949fd90500/asset.meta
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/fb8cc55af4b7a034584793949fd90500/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/fb8cc55af4b7a034584793949fd90500/pathname
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/fb8cc55af4b7a034584793949fd90500/pathname
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/fb8cc55af4b7a034584793949fd90500/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/fb8cc55af4b7a034584793949fd90500/preview.png
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/fb8cc55af4b7a034584793949fd90500/preview.png
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/fb8cc55af4b7a034584793949fd90500/preview.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/fe82c5ed8f6ff8845be710646b0d6f78/asset
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/fe82c5ed8f6ff8845be710646b0d6f78/asset
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/fe82c5ed8f6ff8845be710646b0d6f78/asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/fe82c5ed8f6ff8845be710646b0d6f78/asset.meta
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/fe82c5ed8f6ff8845be710646b0d6f78/asset.meta
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/fe82c5ed8f6ff8845be710646b0d6f78/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/fe82c5ed8f6ff8845be710646b0d6f78/pathname
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/fe82c5ed8f6ff8845be710646b0d6f78/pathname
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/fe82c5ed8f6ff8845be710646b0d6f78/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/fe82c5ed8f6ff8845be710646b0d6f78/preview.png
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/fe82c5ed8f6ff8845be710646b0d6f78/preview.png
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/fe82c5ed8f6ff8845be710646b0d6f78/preview.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/ffb327a0787d6b54482d9da356348f41/asset
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/ffb327a0787d6b54482d9da356348f41/asset
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/ffb327a0787d6b54482d9da356348f41/asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/ffb327a0787d6b54482d9da356348f41/asset.meta
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/ffb327a0787d6b54482d9da356348f41/asset.meta
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/ffb327a0787d6b54482d9da356348f41/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/ffb327a0787d6b54482d9da356348f41/pathname
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/ffb327a0787d6b54482d9da356348f41/pathname
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/ffb327a0787d6b54482d9da356348f41/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/279ecc74981da42d39e4548f3858f503/ffb327a0787d6b54482d9da356348f41/preview.png
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/Export Package/279ecc74981da42d39e4548f3858f503/ffb327a0787d6b54482d9da356348f41/preview.png
+    projectPath: Temp/Export Package/279ecc74981da42d39e4548f3858f503/ffb327a0787d6b54482d9da356348f41/preview.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
