@@ -13,8 +13,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
+<<<<<<< HEAD
   lastUpdatedAtString: 2019-10-28T14:32:25.933-07:00
   initializedAtString: 2019-10-28T00:08:51.137-07:00
+=======
+  lastUpdatedAtString: 2019-10-28T16:08:07.006-07:00
+  initializedAtString: 2019-10-28T10:28:26.931-07:00
+>>>>>>> origin/sara
   currentGitRemote:
     name: origin
     url: https://github.com/brendapaz1/LegendOfJuanitx.git
@@ -24,6 +29,7 @@ MonoBehaviour:
     function: 0
     token: 
   currentGitBranch:
+<<<<<<< HEAD
     name: brenda
     tracking: origin/brenda
   currentConfigBranch:
@@ -32,6 +38,16 @@ MonoBehaviour:
       name: origin
       url: https://github.com/brendapaz1/LegendOfJuanitx.git
     trackingBranch: brenda
+=======
+    name: sara
+    tracking: origin/sara
+  currentConfigBranch:
+    name: sara
+    remote:
+      name: origin
+      url: https://github.com/brendapaz1/LegendOfJuanitx.git
+    trackingBranch: sara
+>>>>>>> origin/sara
   currentConfigRemote:
     name: origin
     url: https://github.com/brendapaz1/LegendOfJuanitx.git

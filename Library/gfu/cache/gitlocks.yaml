@@ -13,6 +13,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 7
+<<<<<<< HEAD
   lastUpdatedAtString: 2019-10-28T16:31:06.615-07:00
   initializedAtString: 2019-10-28T00:08:52.982-07:00
+=======
+  lastUpdatedAtString: 2019-10-28T16:21:13.582-07:00
+  initializedAtString: 2019-10-28T10:28:28.467-07:00
+>>>>>>> origin/sara
   gitLocks: []
