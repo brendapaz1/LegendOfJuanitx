@@ -13,7 +13,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
+<<<<<<< Updated upstream
   lastUpdatedAtString: 2019-10-28T00:11:10.738-07:00
+=======
+  lastUpdatedAtString: 2019-10-28T00:10:29.827-07:00
+>>>>>>> Stashed changes
   initializedAtString: 2019-10-28T00:08:51.308-07:00
   entries:
   - path: Assets/Scenes/Fight.unity
@@ -34,6 +38,7 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+<<<<<<< Updated upstream
   - path: Library/gfu/cache/branches.yaml
     fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Library/gfu/cache/branches.yaml
     projectPath: Library/gfu/cache/branches.yaml
@@ -43,6 +48,17 @@ MonoBehaviour:
   - path: Library/gfu/cache/gitlog.yaml
     fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Library/gfu/cache/gitlog.yaml
     projectPath: Library/gfu/cache/gitlog.yaml
+=======
+  - path: Library/EditorInstance.json
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Library/EditorInstance.json
+    projectPath: Library/EditorInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/gfu/cache/gitlocks.yaml
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Library/gfu/cache/gitlocks.yaml
+    projectPath: Library/gfu/cache/gitlocks.yaml
+>>>>>>> Stashed changes
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -70,3 +86,18 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+<<<<<<< Updated upstream
+=======
+  - path: Library/shadercompiler-UnityShaderCompiler0.log
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Library/shadercompiler-UnityShaderCompiler0.log
+    projectPath: Library/shadercompiler-UnityShaderCompiler0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/UnityLockfile
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/UnityLockfile
+    projectPath: Temp/UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+>>>>>>> Stashed changes
