@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{AEF9FF6F-7A1C-0284-E76D-C2B068D6C17F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/DialogActivator.cs">
+    <Files>
+      <File FileName="Assets/Scripts/DialogActivator.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="8318760a-c8dd-4783-a920-83180568a449" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
