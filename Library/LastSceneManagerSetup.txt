@@ -1,4 +1,8 @@
 sceneSetups:
+<<<<<<< Updated upstream
 - path: Assets/Scenes/Fight.unity
+=======
+- path: Assets/Scenes/Bar.unity
+>>>>>>> Stashed changes
   isLoaded: 1
   isActive: 1
