@@ -13,8 +13,9 @@ public class AreaExit : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-        TheEntrence.transitionName = areaTransitionName;
-	}
+        //TheEntrence.transitionName = areaTransitionName;
+        TheEntrence.transitionName = PlayerController.instance.areaTransitionName;
+    }
 	
 	// Update is called once per frame
 	void Update () {

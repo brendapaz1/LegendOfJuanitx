@@ -28,6 +28,7 @@ public class GameMenu : MonoBehaviour {
 
     public GameObject itemCharChoiceMenu;
     public Text[] itemCharChoiceNames;
+    public Text goldText;
 
 
     // Use this for initialization
@@ -52,6 +53,8 @@ public class GameMenu : MonoBehaviour {
                 GameManager.instance.gameMenuOpen = true;
 
             }
+
+            AudioManager.instance.PlaySFX(5);
             
         }
 	}
@@ -80,6 +83,7 @@ public class GameMenu : MonoBehaviour {
                 charStatHolder[i].SetActive(false);
             }
         }
+        goldText.text = GameManager.instance.currentGold.ToString() + "g";
     }
 
     public void ToggleWindow(int windowNumber)
@@ -126,6 +130,16 @@ public class GameMenu : MonoBehaviour {
 
     public void StatusChar(int selected)
     {
+        if (playerStats[selected].equippedWpn == "")
+        {
+            statusWpnEqpd.text = "None";
+
+        }
+        if (playerStats[selected].equippedArmr == "")
+        {
+            statusArmrEqpd.text = "None";
+        }
+
         statusName.text = playerStats[selected].charName;
         statusHP.text = "" + playerStats[selected].currentHP + "/" + playerStats[selected].maxHP;
         statusMP.text = "" + playerStats[selected].currentMP + "/" + playerStats[selected].maxMP;
@@ -169,19 +183,44 @@ public class GameMenu : MonoBehaviour {
 
     public void SelectItem(Item newItem)
     {
-        activeItem = newItem;
-
-        if(activeItem.isItem)
+        if (newItem != null)
         {
-            useButtonText.text = "Use";
+            activeItem = newItem;
+            if (activeItem.isItem)
+            {
+                useButtonText.text = "Use";
+            }
+            if (activeItem.isWeapon || activeItem.isArmour)
+            {
+                useButtonText.text = "Equip";
+            }
+
+            itemName.text = activeItem.itemName;
+            itemDescription.text = activeItem.description;
+            //itemImage.sprite = activeItem.itemSprite; 
+            //itemImage.gameObject.SetActive(true);    
         }
-        if(activeItem.isWeapon || activeItem.isArmour)
+        else
         {
-            useButtonText.text = "Equip";
+            activeItem = null;
+            itemName.text = "";
+            itemDescription.text = "";
+            //itemImage.gameObject.SetActive(false); 
         }
 
-        itemName.text = activeItem.itemName;
-        itemDescription.text = activeItem.description;
+        // activeItem = newItem;
+
+        // if(activeItem.isItem)
+        // {
+        //    useButtonText.text = "Use";
+        // }
+        //if(activeItem.isWeapon || activeItem.isArmour)
+        // {
+        //     useButtonText.text = "Equip";
+        // }
+
+        // itemName.text = activeItem.itemName;
+        // itemDescription.text = activeItem.description;
     }
 
     public void DiscardItem()
@@ -189,7 +228,19 @@ public class GameMenu : MonoBehaviour {
         if (activeItem != null)
         {
             GameManager.instance.RemoveItem(activeItem.itemName);
+            //print("discarded item " + activeItem.itemName); <- for testing
+
+            if (!GameManager.instance.HasItem(activeItem.itemName))
+            {
+                SelectItem(null);
+            }
         }
+
+        //if (activeItem != null)
+        //{
+        //GameManager.instance.RemoveItem(activeItem.itemName);
+        //}
+
     }
 
     public void OpenItemCharChoice()
@@ -211,5 +262,22 @@ public class GameMenu : MonoBehaviour {
     {
         activeItem.Use(selectChar);
         CloseItemCharChoice();
+        activeItem = null;
+        itemName.text = "Item";
+        itemDescription.text = "No Item Selected";
+
+        //activeItem.Use(selectChar);
+        //CloseItemCharChoice();
+    }
+
+    public void SaveGame()
+    {
+        GameManager.instance.SaveData();
+        QuestManager.instance.SaveQuestData();
+    }
+
+    public void PlayButtonSound()
+    {
+        AudioManager.instance.PlaySFX(4);
     }
 }

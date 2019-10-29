@@ -4,8 +4,7 @@
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 1
@@ -13,11 +12,7 @@ MonoBehaviour:
   m_Name: Default Brush
   m_EditorClassIdentifier: 
   m_Cells:
-<<<<<<< Updated upstream
-  - m_Tile: {fileID: 11400000, guid: e29df2bd4ee85d341824e3bc0288f5d6, type: 2}
-=======
-  - m_Tile: {fileID: 0}
->>>>>>> Stashed changes
+  - m_Tile: {fileID: 11400000, guid: c242522b54854b44eb485b0d481ff680, type: 2}
     m_Matrix:
       e00: 1
       e01: 0

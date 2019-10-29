@@ -51,7 +51,7 @@ public class Item : MonoBehaviour {
 
             if (affectMP)
             {
-                selectedChar.currentHP += amountToChange;
+                selectedChar.currentMP += amountToChange;
 
                 if (selectedChar.currentMP > selectedChar.maxMP)
                 {

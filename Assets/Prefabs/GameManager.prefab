@@ -68,6 +68,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4087510211847644}
   - component: {fileID: 114603042616332744}
+  - component: {fileID: 114091879655960922}
   m_Layer: 0
   m_Name: GameManager
   m_TagString: Untagged
@@ -82,7 +83,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1542385903018484}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 15.57, y: 0.84, z: 0}
+  m_LocalPosition: {x: 2.02, y: -3.49, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4137781897354696}
@@ -130,6 +131,24 @@ Transform:
   m_Father: {fileID: 4087510211847644}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114091879655960922
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1542385903018484}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8efc3fb52ae6af84e8bada977b5069a3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  questMarkerNames:
+  - 
+  - fight the demon
+  - enter the cave
+  - quest test
+  - save the world
+  questMarkersComplete: 
 --- !u!114 &114097345570676352
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -176,9 +195,9 @@ MonoBehaviour:
   expToNextLevel: 
   maxLevel: 10
   baseEXP: 1000
-  currentHP: 0
+  currentHP: 100
   maxHP: 100
-  currentMP: 0
+  currentMP: 30
   maxMP: 30
   mpLvlBonus: 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
   strenght: 15
@@ -206,6 +225,7 @@ MonoBehaviour:
   gameMenuOpen: 0
   dialogActive: 0
   fadingBetweenAreas: 0
+  shopActive: 0
   itemsHeld:
   - 
   - Health Potion
@@ -255,6 +275,7 @@ MonoBehaviour:
   - {fileID: 114855368981850380, guid: 7b21607041154d2429b516fa070a73e7, type: 2}
   - {fileID: 114248886543323478, guid: 9511acc003541a74298e37d993c50b56, type: 2}
   - {fileID: 114768905301247768, guid: 28e6a249b4b455a4f86b6c0d1e87faa0, type: 2}
+  currentGold: 100
 --- !u!114 &114754470958124750
 MonoBehaviour:
   m_ObjectHideFlags: 1

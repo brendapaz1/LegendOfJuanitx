@@ -7,9 +7,10 @@ public class EssentialsLoader : MonoBehaviour {
     public GameObject UIScreen;
     public GameObject player;
     public GameObject gameMan;
+    public GameObject audioMan;
 
-	// Use this for initialization
-	void Start () {
+    // Use this for initialization
+    void Start () {
 		if(UIFade.instance == null)
         {
             UIFade.instance =  Instantiate(UIScreen).GetComponent<UIFade>();
@@ -20,7 +21,13 @@ public class EssentialsLoader : MonoBehaviour {
            PlayerController clone =Instantiate(player).GetComponent<PlayerController>();
            PlayerController.instance = clone;
         }
-        if(GameManager.instance == null)
+
+        if (AudioManager.instance == null)
+        {
+            AudioManager.instance = Instantiate(audioMan).GetComponent<AudioManager>();
+        }
+
+        if (GameManager.instance == null)
         {
             Instantiate(gameMan);
         }

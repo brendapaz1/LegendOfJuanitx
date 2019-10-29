@@ -153,7 +153,7 @@ Transform:
   - {fileID: 1491376282}
   - {fileID: 2085282798}
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &677700229
 Prefab:
@@ -192,7 +192,11 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4884184182112836, guid: 1dd9ff72d30be264d837c3115b1fee71, type: 2}
       propertyPath: m_RootOrder
-      value: 4
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1984418821771614, guid: 1dd9ff72d30be264d837c3115b1fee71, type: 2}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1dd9ff72d30be264d837c3115b1fee71, type: 2}
@@ -234,7 +238,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4780863892699110, guid: 1b91c1801bfe65547878fed4a9ede12a, type: 2}
       propertyPath: m_RootOrder
-      value: 2
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 1163189959961558, guid: 1b91c1801bfe65547878fed4a9ede12a, type: 2}
       propertyPath: m_IsActive
@@ -4495,6 +4499,11 @@ Prefab:
       propertyPath: TheMap
       value: 
       objectReference: {fileID: 1491376284}
+    - target: {fileID: 114531893782344980, guid: 2a3b411b9dd5d244bb8193ebb6e7e245,
+        type: 2}
+      propertyPath: musicToPlay
+      value: 2
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2a3b411b9dd5d244bb8193ebb6e7e245, type: 2}
   m_IsPrefabAsset: 0
