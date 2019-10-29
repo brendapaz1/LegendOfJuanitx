@@ -13,12 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-<<<<<<< Updated upstream
-  lastUpdatedAtString: 2019-10-28T00:11:03.556-07:00
-=======
-  lastUpdatedAtString: 2019-10-28T00:08:51.137-07:00
->>>>>>> Stashed changes
-  initializedAtString: 2019-10-28T00:08:51.137-07:00
+  lastUpdatedAtString: 2019-10-28T18:56:06.453-07:00
+  initializedAtString: 2019-10-28T16:36:19.479-07:00
   currentGitRemote:
     name: origin
     url: https://github.com/brendapaz1/LegendOfJuanitx.git

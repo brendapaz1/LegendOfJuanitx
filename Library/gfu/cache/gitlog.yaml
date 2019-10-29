@@ -13,9 +13,129 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2019-10-28T00:11:06.761-07:00
-  initializedAtString: 2019-10-28T00:11:06.262-07:00
+  lastUpdatedAtString: 2019-10-28T18:56:06.928-07:00
+  initializedAtString: 2019-10-28T18:56:02.188-07:00
   log:
+  - commitID: b66fa6bd2a0c713cc64f566791f04c577796dd5b
+    mergeA: 
+    mergeB: 
+    authorName: brendapaz1
+    authorEmail: brendapaz1771@gmail.com
+    commitEmail: brendapaz1771@gmail.com
+    commitName: brendapaz1
+    summary: a
+    description: 
+    timeString: 2019-10-28T00:12:08.000-07:00
+    commitTimeString: 2019-10-28T00:12:08.000-07:00
+    changes:
+    - path: Library/EditorInstance.json
+      fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Library/EditorInstance.json
+      projectPath: Library/EditorInstance.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/GridBrush/UnityEditor.GridBrush.asset
+      fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Library/GridBrush/UnityEditor.GridBrush.asset
+      projectPath: Library/GridBrush/UnityEditor.GridBrush.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gitlocks.yaml
+      fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Library/gfu/cache/gitlocks.yaml
+      projectPath: Library/gfu/cache/gitlocks.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gitstatusentries.yaml
+      fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Library/gfu/cache/gitstatusentries.yaml
+      projectPath: Library/gfu/cache/gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gittrackingstatus.yaml
+      fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Library/gfu/cache/gittrackingstatus.yaml
+      projectPath: Library/gfu/cache/gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/repoinfo.yaml
+      fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Library/gfu/cache/repoinfo.yaml
+      projectPath: Library/gfu/cache/repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/shadercompiler-UnityShaderCompiler0.log
+      fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Library/shadercompiler-UnityShaderCompiler0.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler0.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Temp/UnityLockfile
+      fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/UnityLockfile
+      projectPath: Temp/UnityLockfile
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 84c66c46d8173305b58874781b768e827a029bdf
+    mergeA: 
+    mergeB: 
+    authorName: brendapaz1
+    authorEmail: brendapaz1771@gmail.com
+    commitEmail: brendapaz1771@gmail.com
+    commitName: brendapaz1
+    summary: ola
+    description: 
+    timeString: 2019-10-28T00:11:15.000-07:00
+    commitTimeString: 2019-10-28T00:11:15.000-07:00
+    changes:
+    - path: Assets/Scenes/Fight.unity
+      fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Assets/Scenes/Fight.unity
+      projectPath: Assets/Scenes/Fight.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/GridBrush/UnityEditor.GridBrush.asset
+      fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Library/GridBrush/UnityEditor.GridBrush.asset
+      projectPath: Library/GridBrush/UnityEditor.GridBrush.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/assetDatabase3
+      fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Library/assetDatabase3
+      projectPath: Library/assetDatabase3
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/branches.yaml
+      fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Library/gfu/cache/branches.yaml
+      projectPath: Library/gfu/cache/branches.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gitlog.yaml
+      fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Library/gfu/cache/gitlog.yaml
+      projectPath: Library/gfu/cache/gitlog.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gitstatusentries.yaml
+      fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Library/gfu/cache/gitstatusentries.yaml
+      projectPath: Library/gfu/cache/gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gittrackingstatus.yaml
+      fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Library/gfu/cache/gittrackingstatus.yaml
+      projectPath: Library/gfu/cache/gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/gfu/cache/repoinfo.yaml
+      fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Library/gfu/cache/repoinfo.yaml
+      projectPath: Library/gfu/cache/repoinfo.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
   - commitID: 0fb43b342ed8bb1fdc2a9d28930d8f4f7e5e3cff
     mergeA: 
     mergeB: 
