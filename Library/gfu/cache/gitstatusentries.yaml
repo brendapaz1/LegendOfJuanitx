@@ -13,6 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -21,10 +22,14 @@ MonoBehaviour:
   lastUpdatedAtString: 2019-10-28T00:10:29.827-07:00
 >>>>>>> Stashed changes
   initializedAtString: 2019-10-28T00:08:51.308-07:00
+=======
+  lastUpdatedAtString: 2019-10-28T18:56:11.163-07:00
+  initializedAtString: 2019-10-28T16:36:19.638-07:00
+>>>>>>> master
   entries:
-  - path: Assets/Scenes/Fight.unity
-    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Assets/Scenes/Fight.unity
-    projectPath: Assets/Scenes/Fight.unity
+  - path: Assets/Scenes/Market.unity
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Assets/Scenes/Market.unity
+    projectPath: Assets/Scenes/Market.unity
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -40,66 +45,53 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-<<<<<<< Updated upstream
   - path: Library/gfu/cache/branches.yaml
     fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Library/gfu/cache/branches.yaml
     projectPath: Library/gfu/cache/branches.yaml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library/gfu/cache/gitlog.yaml
     fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Library/gfu/cache/gitlog.yaml
     projectPath: Library/gfu/cache/gitlog.yaml
-=======
-  - path: Library/EditorInstance.json
-    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Library/EditorInstance.json
-    projectPath: Library/EditorInstance.json
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/gfu/cache/gitlocks.yaml
-    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Library/gfu/cache/gitlocks.yaml
-    projectPath: Library/gfu/cache/gitlocks.yaml
->>>>>>> Stashed changes
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library/gfu/cache/gitstatusentries.yaml
     fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Library/gfu/cache/gitstatusentries.yaml
     projectPath: Library/gfu/cache/gitstatusentries.yaml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library/gfu/cache/gittrackingstatus.yaml
     fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Library/gfu/cache/gittrackingstatus.yaml
     projectPath: Library/gfu/cache/gittrackingstatus.yaml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library/gfu/cache/repoinfo.yaml
     fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Library/gfu/cache/repoinfo.yaml
     projectPath: Library/gfu/cache/repoinfo.yaml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/GridBrush/UnityEditor.GridBrush.asset
-    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Library/GridBrush/UnityEditor.GridBrush.asset
-    projectPath: Library/GridBrush/UnityEditor.GridBrush.asset
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/metadata/00/00000000000000009000000000000000
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Library/metadata/00/00000000000000009000000000000000
+    projectPath: Library/metadata/00/00000000000000009000000000000000
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-<<<<<<< Updated upstream
-=======
-  - path: Library/shadercompiler-UnityShaderCompiler0.log
-    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Library/shadercompiler-UnityShaderCompiler0.log
-    projectPath: Library/shadercompiler-UnityShaderCompiler0.log
+  - path: Library/metadata/2c/2cda990e2423bbf4892e6590ba056729
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Library/metadata/2c/2cda990e2423bbf4892e6590ba056729
+    projectPath: Library/metadata/2c/2cda990e2423bbf4892e6590ba056729
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Temp/UnityLockfile
-    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Temp/UnityLockfile
-    projectPath: Temp/UnityLockfile
+  - path: Library/metadata/52/52a9fd8aa229db545adea339f4a7110c
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Library/metadata/52/52a9fd8aa229db545adea339f4a7110c
+    projectPath: Library/metadata/52/52a9fd8aa229db545adea339f4a7110c
     originalPath: 
+<<<<<<< HEAD
     indexStatus: 1
     workTreeStatus: 1
 >>>>>>> Stashed changes
@@ -113,3 +105,7 @@ MonoBehaviour:
   initializedAtString: 2019-10-28T16:36:19.638-07:00
   entries: []
 >>>>>>> Stashed changes
+=======
+    indexStatus: 0
+    workTreeStatus: 3
+>>>>>>> master

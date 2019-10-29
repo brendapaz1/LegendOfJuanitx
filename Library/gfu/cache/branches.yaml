@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1666186674, guid: 68c7e4565cde54155bb78d8e935f1dd4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 2
+  lastUpdatedAtString: 2019-10-28T18:56:06.327-07:00
+  initializedAtString: 2019-10-28T18:55:29.447-07:00
+  localBranches:
+  - name: brenda
+    tracking: origin/brenda
+  - name: master
+    tracking: origin/master
+  - name: popo
+    tracking: origin/popo
+  remoteBranches:
+  - name: origin/brenda
+    tracking: '[None]'
+  - name: origin/master
+    tracking: '[None]'
+  - name: origin/popo
+    tracking: '[None]'
+  - name: origin/sara
+    tracking: '[None]'
+  remotes:
+  - name: origin
+    url: https://github.com/brendapaz1/LegendOfJuanitx.git
+    login: 
+    user: 
+    host: 
+    function: 0
+    token: 
+  localConfigBranches:
+    keys:
+    - brenda
+    - master
+    - popo
+    values:
+    - name: brenda
+      remote:
+        name: origin
+        url: https://github.com/brendapaz1/LegendOfJuanitx.git
+      trackingBranch: brenda
+    - name: master
+      remote:
+        name: origin
+        url: https://github.com/brendapaz1/LegendOfJuanitx.git
+      trackingBranch: master
+    - name: popo
+      remote:
+        name: origin
+        url: https://github.com/brendapaz1/LegendOfJuanitx.git
+      trackingBranch: popo
+  remoteConfigBranches:
+    keys:
+    - origin
+    subKeys:
+    - Values:
+      - brenda
+      - master
+      - popo
+      - sara
+    subKeyValues:
+    - Values:
+      - name: brenda
+        remote:
+          name: origin
+          url: https://github.com/brendapaz1/LegendOfJuanitx.git
+        trackingBranch: 
+      - name: master
+        remote:
+          name: origin
+          url: https://github.com/brendapaz1/LegendOfJuanitx.git
+        trackingBranch: 
+      - name: popo
+        remote:
+          name: origin
+          url: https://github.com/brendapaz1/LegendOfJuanitx.git
+        trackingBranch: 
+      - name: sara
+        remote:
+          name: origin
+          url: https://github.com/brendapaz1/LegendOfJuanitx.git
+        trackingBranch: 
+  configRemotes:
+    keys:
+    - origin
+    values:
+    - name: origin
+      url: https://github.com/brendapaz1/LegendOfJuanitx.git

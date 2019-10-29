@@ -1488,7 +1488,7 @@ Tilemap:
   - first: {x: 0, y: 0, z: 0}
     second:
       m_TileIndex: 1
-      m_TileSpriteIndex: 1
+      m_TileSpriteIndex: 16
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -3142,10 +3142,13 @@ Tilemap:
   - m_RefCount: 99
     m_Data: {fileID: 11400000, guid: 258b91f49e1185a44994b26baf53cc40, type: 2}
   m_TileSpriteArray:
+<<<<<<< HEAD
+=======
   - m_RefCount: 0
     m_Data: {fileID: 0}
-  - m_RefCount: 1
-    m_Data: {fileID: 21301118, guid: af6bc9dfbb9b08e4890cf8e4b8dd00c3, type: 3}
+>>>>>>> master
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
   - m_RefCount: 0
     m_Data: {fileID: 0}
   - m_RefCount: 0
@@ -3172,6 +3175,7 @@ Tilemap:
     m_Data: {fileID: 21300768, guid: af6bc9dfbb9b08e4890cf8e4b8dd00c3, type: 3}
   - m_RefCount: 0
     m_Data: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
   - m_RefCount: 0
@@ -3181,11 +3185,16 @@ Tilemap:
 =======
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> master
   - m_RefCount: 99
     m_Data: {fileID: 21300000, guid: af6bc9dfbb9b08e4890cf8e4b8dd00c3, type: 3}
   - m_RefCount: 1
     m_Data: {fileID: 21301118, guid: af6bc9dfbb9b08e4890cf8e4b8dd00c3, type: 3}
+<<<<<<< HEAD
 >>>>>>> Stashed changes
+=======
+>>>>>>> master
   m_TileMatrixArray:
   - m_RefCount: 323
     m_Data:
@@ -3288,8 +3297,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d605ec07237d35f4597ed9a8e06f6d62, type: 3}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
+=======
+>>>>>>> master
 --- !u!1 &1350860693
 GameObject:
   m_ObjectHideFlags: 0
@@ -3355,7 +3367,11 @@ SpriteRenderer:
   m_Size: {x: 0.6666667, y: 0.8333333}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
+<<<<<<< HEAD
   m_WasSpriteAssigned: 1
+=======
+  m_WasSpriteAssigned: 0
+>>>>>>> master
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1350860695
@@ -3366,7 +3382,11 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1350860693}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+<<<<<<< HEAD
   m_LocalPosition: {x: -3.7974, y: 1.1516, z: 0}
+=======
+  m_LocalPosition: {x: -1.5, y: 1, z: 0}
+>>>>>>> master
   m_LocalScale: {x: 1.3845, y: 1.3796, z: 1}
   m_Children: []
   m_Father: {fileID: 2078130546}
@@ -3385,7 +3405,11 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
+<<<<<<< HEAD
   m_Offset: {x: 0, y: 0}
+=======
+  m_Offset: {x: -3.7974, y: 1.1516}
+>>>>>>> master
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -3411,7 +3435,11 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
+<<<<<<< HEAD
   m_Offset: {x: 0, y: 0}
+=======
+  m_Offset: {x: -3.7974, y: 1.1516}
+>>>>>>> master
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -3443,10 +3471,13 @@ MonoBehaviour:
   - olais
   - asss
   isPerson: 1
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> master
 --- !u!1001 &1517002282
 PrefabInstance:
   m_ObjectHideFlags: 0
