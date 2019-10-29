@@ -1,4 +1,16 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Scenes/Town.unity
+=======
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+- path: Assets/Scenes/Fight.unity
+=======
+- path: Assets/Scenes/Bar.unity
+>>>>>>> Stashed changes
+=======
+- path: Assets/Scenes/Bar.unity
+>>>>>>> Stashed changes
+>>>>>>> origin/popo
   isLoaded: 1
   isActive: 1

@@ -12,7 +12,23 @@ MonoBehaviour:
   m_Name: Default Brush
   m_EditorClassIdentifier: 
   m_Cells:
+<<<<<<< HEAD
   - m_Tile: {fileID: 11400000, guid: c242522b54854b44eb485b0d481ff680, type: 2}
+=======
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+  - m_Tile: {fileID: 11400000, guid: e29df2bd4ee85d341824e3bc0288f5d6, type: 2}
+=======
+  - m_Tile: {fileID: 0}
+>>>>>>> Stashed changes
+=======
+  - m_Tile: {fileID: 11400000, guid: 258b91f49e1185a44994b26baf53cc40, type: 2}
+>>>>>>> Stashed changes
+=======
+  - m_Tile: {fileID: 11400000, guid: 258b91f49e1185a44994b26baf53cc40, type: 2}
+>>>>>>> Stashed changes
+>>>>>>> origin/popo
     m_Matrix:
       e00: 1
       e01: 0
