@@ -15,11 +15,16 @@ MonoBehaviour:
   cacheType: 1
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   lastUpdatedAtString: 2019-10-28T00:11:03.556-07:00
 =======
   lastUpdatedAtString: 2019-10-28T00:08:51.137-07:00
 >>>>>>> Stashed changes
   initializedAtString: 2019-10-28T00:08:51.137-07:00
+=======
+  lastUpdatedAtString: 2019-10-28T16:36:19.479-07:00
+  initializedAtString: 2019-10-28T16:36:19.479-07:00
+>>>>>>> Stashed changes
 =======
   lastUpdatedAtString: 2019-10-28T16:36:19.479-07:00
   initializedAtString: 2019-10-28T16:36:19.479-07:00
@@ -34,13 +39,19 @@ MonoBehaviour:
     token: 
   currentGitBranch:
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     name: master
     tracking: origin/master
+=======
+    name: brenda
+    tracking: origin/brenda
+>>>>>>> Stashed changes
   currentConfigBranch:
     name: master
     remote:
       name: origin
       url: https://github.com/brendapaz1/LegendOfJuanitx.git
+<<<<<<< Updated upstream
     trackingBranch: master
 =======
     name: brenda
@@ -50,6 +61,9 @@ MonoBehaviour:
     remote:
       name: origin
       url: https://github.com/brendapaz1/LegendOfJuanitx.git
+    trackingBranch: brenda
+>>>>>>> Stashed changes
+=======
     trackingBranch: brenda
 >>>>>>> Stashed changes
   currentConfigRemote:

@@ -3173,11 +3173,14 @@ Tilemap:
   - m_RefCount: 0
     m_Data: {fileID: 0}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   - m_RefCount: 0
     m_Data: {fileID: 0}
   - m_RefCount: 0
     m_Data: {fileID: 0}
 =======
+=======
+>>>>>>> Stashed changes
   - m_RefCount: 99
     m_Data: {fileID: 21300000, guid: af6bc9dfbb9b08e4890cf8e4b8dd00c3, type: 3}
   - m_RefCount: 1
@@ -3440,6 +3443,9 @@ MonoBehaviour:
   - olais
   - asss
   isPerson: 1
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 --- !u!1001 &1517002282
 PrefabInstance:

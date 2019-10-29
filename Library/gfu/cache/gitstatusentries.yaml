@@ -15,6 +15,7 @@ MonoBehaviour:
   cacheType: 6
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   lastUpdatedAtString: 2019-10-28T00:11:10.738-07:00
 =======
   lastUpdatedAtString: 2019-10-28T00:10:29.827-07:00
@@ -101,6 +102,11 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+>>>>>>> Stashed changes
+=======
+  lastUpdatedAtString: 2019-10-28T17:41:59.045-07:00
+  initializedAtString: 2019-10-28T16:36:19.638-07:00
+  entries: []
 >>>>>>> Stashed changes
 =======
   lastUpdatedAtString: 2019-10-28T17:41:59.045-07:00
