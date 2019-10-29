@@ -13,36 +13,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2019-10-28T18:56:11.163-07:00
+  lastUpdatedAtString: 2019-10-28T18:57:09.091-07:00
   initializedAtString: 2019-10-28T16:36:19.638-07:00
   entries:
-  - path: Assets/Scenes/Market.unity
-    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Assets/Scenes/Market.unity
-    projectPath: Assets/Scenes/Market.unity
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library/assetDatabase3
-    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Library/assetDatabase3
-    projectPath: Library/assetDatabase3
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library/CrashedAssetImports.txt
-    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Library/CrashedAssetImports.txt
-    projectPath: Library/CrashedAssetImports.txt
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Library/gfu/cache/branches.yaml
     fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Library/gfu/cache/branches.yaml
     projectPath: Library/gfu/cache/branches.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library/gfu/cache/gitlog.yaml
-    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Library/gfu/cache/gitlog.yaml
-    projectPath: Library/gfu/cache/gitlog.yaml
+  - path: Library/gfu/cache/gitlocks.yaml
+    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Library/gfu/cache/gitlocks.yaml
+    projectPath: Library/gfu/cache/gitlocks.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -55,30 +37,6 @@ MonoBehaviour:
   - path: Library/gfu/cache/gittrackingstatus.yaml
     fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Library/gfu/cache/gittrackingstatus.yaml
     projectPath: Library/gfu/cache/gittrackingstatus.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library/gfu/cache/repoinfo.yaml
-    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Library/gfu/cache/repoinfo.yaml
-    projectPath: Library/gfu/cache/repoinfo.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library/metadata/00/00000000000000009000000000000000
-    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Library/metadata/00/00000000000000009000000000000000
-    projectPath: Library/metadata/00/00000000000000009000000000000000
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library/metadata/2c/2cda990e2423bbf4892e6590ba056729
-    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Library/metadata/2c/2cda990e2423bbf4892e6590ba056729
-    projectPath: Library/metadata/2c/2cda990e2423bbf4892e6590ba056729
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library/metadata/52/52a9fd8aa229db545adea339f4a7110c
-    fullPath: /Users/brendapaz/Documents/GitHub/LegendOfJuanitx/Library/metadata/52/52a9fd8aa229db545adea339f4a7110c
-    projectPath: Library/metadata/52/52a9fd8aa229db545adea339f4a7110c
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
