@@ -1,6 +1,10 @@
 sceneSetups:
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - path: Assets/Scenes/Fight.unity
+=======
+- path: Assets/Scenes/MainMenu.unity
+>>>>>>> Stashed changes
 =======
 - path: Assets/Scenes/MainMenu.unity
 >>>>>>> Stashed changes

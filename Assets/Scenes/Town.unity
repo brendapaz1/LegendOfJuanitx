@@ -114,6 +114,7 @@ NavMeshSettings:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 --- !u!1001 &17125043
 Prefab:
   m_ObjectHideFlags: 0
@@ -174,6 +175,8 @@ Prefab:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1dd9ff72d30be264d837c3115b1fee71, type: 2}
   m_IsPrefabAsset: 0
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 --- !u!1 &315825387
@@ -244,7 +247,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   m_RootOrder: 6
+=======
+  m_RootOrder: 13
+>>>>>>> Stashed changes
 =======
   m_RootOrder: 13
 >>>>>>> Stashed changes
@@ -486,56 +493,9 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.72054577, y: 0.8698273}
   m_EdgeRadius: 0
+<<<<<<< Updated upstream
 --- !u!61 &1684798224
 BoxCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1684798220}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 1
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: -0.043389797, y: -0.32543182}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.9375, y: 1}
-    newSize: {x: 0.9375, y: 1}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  serializedVersion: 2
-  m_Size: {x: 2.2392263, y: 1.6508636}
-  m_EdgeRadius: 0
-<<<<<<< Updated upstream
---- !u!114 &1684798225
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1684798220}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 26afe06bf79788549a3fe6e28bd85479, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  lines:
-  - n-Girl
-  - Please Help me!
-  - n-Player
-  - Is everything okay?
-  - n-Girl
-  - No!
-  - My family was kidnapped by a dragon
-  - n-Player
-  - Don't Worry
-  - I will save them!
-  isPerson: 1
---- !u!1 &1691831075
 =======
 --- !u!1001 &391083597
 Prefab:
@@ -575,6 +535,180 @@ Prefab:
     - target: {fileID: 4808682694148412, guid: cc66753ba7cb11b42ac2677201675871, type: 2}
       propertyPath: m_RootOrder
       value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4488517572328838, guid: cc66753ba7cb11b42ac2677201675871, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 0.74
+      objectReference: {fileID: 0}
+    - target: {fileID: 4488517572328838, guid: cc66753ba7cb11b42ac2677201675871, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: -0.58
+      objectReference: {fileID: 0}
+    - target: {fileID: 4808682694148412, guid: cc66753ba7cb11b42ac2677201675871, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 114372101440334144, guid: cc66753ba7cb11b42ac2677201675871,
+        type: 2}
+      propertyPath: areaToLoad
+      value: Bar
+      objectReference: {fileID: 0}
+    - target: {fileID: 114372101440334144, guid: cc66753ba7cb11b42ac2677201675871,
+        type: 2}
+      propertyPath: areaTransitionName
+      value: Bar1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114144509125233964, guid: cc66753ba7cb11b42ac2677201675871,
+        type: 2}
+      propertyPath: transitionName
+      value: Town-4
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cc66753ba7cb11b42ac2677201675871, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!1 &422454547
+GameObject:
+>>>>>>> Stashed changes
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1684798220}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -0.043389797, y: -0.32543182}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.9375, y: 1}
+    newSize: {x: 0.9375, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 2.2392263, y: 1.6508636}
+  m_EdgeRadius: 0
+<<<<<<< Updated upstream
+--- !u!114 &1684798225
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1684798220}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26afe06bf79788549a3fe6e28bd85479, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+<<<<<<< Updated upstream
+  lines:
+  - n-Girl
+  - Please Help me!
+  - n-Player
+  - Is everything okay?
+  - n-Girl
+  - No!
+  - My family was kidnapped by a dragon
+  - n-Player
+  - Don't Worry
+  - I will save them!
+  isPerson: 1
+--- !u!1 &1691831075
+=======
+--- !u!1001 &391083597
+=======
+  objectToActivate: {fileID: 1551947773}
+  questToCheck: quest test
+  activeIfComplete: 0
+--- !u!4 &422454549
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 422454547}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 5.08, y: 2.1, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1551947774}
+  m_Father: {fileID: 0}
+  m_RootOrder: 17
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &455734430
+>>>>>>> Stashed changes
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+<<<<<<< Updated upstream
+    - target: {fileID: 4808682694148412, guid: cc66753ba7cb11b42ac2677201675871, type: 2}
+=======
+    - target: {fileID: 4647027183345612, guid: 151123f07cb7fb54c91a2c5412c6497f, type: 2}
+>>>>>>> Stashed changes
+      propertyPath: m_LocalPosition.x
+      value: 37.04
+      objectReference: {fileID: 0}
+<<<<<<< Updated upstream
+    - target: {fileID: 4808682694148412, guid: cc66753ba7cb11b42ac2677201675871, type: 2}
+=======
+    - target: {fileID: 4647027183345612, guid: 151123f07cb7fb54c91a2c5412c6497f, type: 2}
+>>>>>>> Stashed changes
+      propertyPath: m_LocalPosition.y
+      value: 6.28
+      objectReference: {fileID: 0}
+<<<<<<< Updated upstream
+    - target: {fileID: 4808682694148412, guid: cc66753ba7cb11b42ac2677201675871, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4808682694148412, guid: cc66753ba7cb11b42ac2677201675871, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4808682694148412, guid: cc66753ba7cb11b42ac2677201675871, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4808682694148412, guid: cc66753ba7cb11b42ac2677201675871, type: 2}
+=======
+    - target: {fileID: 4647027183345612, guid: 151123f07cb7fb54c91a2c5412c6497f, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4647027183345612, guid: 151123f07cb7fb54c91a2c5412c6497f, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4647027183345612, guid: 151123f07cb7fb54c91a2c5412c6497f, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4647027183345612, guid: 151123f07cb7fb54c91a2c5412c6497f, type: 2}
+>>>>>>> Stashed changes
+      propertyPath: m_LocalRotation.z
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 4808682694148412, guid: cc66753ba7cb11b42ac2677201675871, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 4808682694148412, guid: cc66753ba7cb11b42ac2677201675871, type: 2}
+      propertyPath: m_RootOrder
+<<<<<<< Updated upstream
+      value: 3
+=======
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1582423314537160, guid: 151123f07cb7fb54c91a2c5412c6497f, type: 2}
+      propertyPath: m_IsActive
+      value: 0
+>>>>>>> Stashed changes
       objectReference: {fileID: 0}
     - target: {fileID: 4488517572328838, guid: cc66753ba7cb11b42ac2677201675871, type: 2}
       propertyPath: m_LocalPosition.x
@@ -1882,7 +2016,10 @@ CompositeCollider2D:
       - X: 422500000
         Y: -30000000
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
     - - X: 360000000
         Y: 13125000
       - X: 360000000
@@ -2223,13 +2360,17 @@ CompositeCollider2D:
       - X: -9375000
         Y: -200000000
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     - - X: -1875000
 =======
+=======
+>>>>>>> Stashed changes
     - - X: 370000000
         Y: -228750000
       - X: 370000000
         Y: -201250000
       - X: 368750016
+<<<<<<< Updated upstream
 >>>>>>> Stashed changes
         Y: -200000000
       - X: 0
@@ -2237,6 +2378,20 @@ CompositeCollider2D:
       - X: 0
         Y: -200000000
     - - X: 220000000
+=======
+        Y: -200000000
+      - X: 341249984
+        Y: -200000000
+      - X: 340000000
+        Y: -201875008
+      - X: 340000000
+        Y: -227500000
+      - X: 341875008
+        Y: -230000000
+      - X: 368124992
+        Y: -230000000
+    - - X: 270000000
+>>>>>>> Stashed changes
         Y: -228750000
       - X: 220000000
         Y: -201250000
@@ -2381,8 +2536,11 @@ CompositeCollider2D:
       - X: 318124992
         Y: -230000000
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     - - X: 50000000
 =======
+=======
+>>>>>>> Stashed changes
     - - X: 470000000
         Y: -228750000
       - X: 470000000
@@ -2517,6 +2675,12 @@ CompositeCollider2D:
         Y: -210000000
       - X: 350000000
         Y: -210624992
+    - - X: 350000000
+        Y: -210000000
+      - X: 350624992
+        Y: -210000000
+      - X: 350000000
+        Y: -210624992
     - - X: 400000000
 >>>>>>> Stashed changes
         Y: -210000000
@@ -2524,6 +2688,7 @@ CompositeCollider2D:
         Y: -210000000
       - X: 100000000
         Y: -210624992
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
     - - X: 208124992
         Y: -220000000
@@ -2533,6 +2698,8 @@ CompositeCollider2D:
         Y: -220000000
     - - X: 400000000
 =======
+=======
+>>>>>>> Stashed changes
     - - X: 450000000
 >>>>>>> Stashed changes
         Y: -220000000
@@ -2583,11 +2750,19 @@ CompositeCollider2D:
       - X: 350624992
         Y: -220000000
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     - - X: 408124992
         Y: -220000000
       - X: 410000000
         Y: -219375008
       - X: 410000000
+=======
+    - - X: 50000000
+        Y: -220000000
+      - X: 50000000
+        Y: -219375008
+      - X: 50625000
+>>>>>>> Stashed changes
 =======
     - - X: 50000000
         Y: -220000000
@@ -2639,6 +2814,7 @@ CompositeCollider2D:
       - X: 160000000
         Y: -220000000
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     - - X: 50000000
         Y: -220000000
       - X: 50000000
@@ -2646,6 +2822,8 @@ CompositeCollider2D:
       - X: 50625000
         Y: -220000000
 =======
+=======
+>>>>>>> Stashed changes
     - - X: 250000000
         Y: -220000000
       - X: 250000000
@@ -2664,6 +2842,9 @@ CompositeCollider2D:
         Y: -250000000
       - X: -61250000
         Y: -250000000
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
   m_CompositePaths:
     m_Paths:
@@ -2783,7 +2964,10 @@ CompositeCollider2D:
       - {x: 40.875004, y: -3}
       - {x: 42.25, y: -3}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
     - - {x: 36, y: 1.3125}
       - {x: 36, y: 2}
       - {x: 35, y: 2}
@@ -2955,6 +3139,7 @@ CompositeCollider2D:
       - {x: -1, y: -19.937502}
       - {x: -0.9375, y: -20}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     - - {x: -0.1875, y: -20}
       - {x: 0, y: -19.937502}
       - {x: 0, y: -20}
@@ -2982,6 +3167,8 @@ CompositeCollider2D:
       - {x: 9, y: -22.75}
       - {x: 9.1875, y: -23}
       - {x: 11.8125, y: -23}
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
     - - {x: 37, y: -22.875}
@@ -3033,7 +3220,10 @@ CompositeCollider2D:
       - {x: 29.187502, y: -23}
       - {x: 31.8125, y: -23}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
     - - {x: 47, y: -22.875}
       - {x: 47, y: -20.125}
       - {x: 46.875004, y: -20}
@@ -3152,10 +3342,13 @@ CompositeCollider2D:
       - {x: 36, y: -21.937502}
       - {x: 36, y: -22}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     - - {x: 25, y: -22}
       - {x: 25, y: -21.937502}
       - {x: 25.0625, y: -22}
 =======
+=======
+>>>>>>> Stashed changes
     - - {x: 5, y: -22}
       - {x: 5, y: -21.937502}
       - {x: 5.0625, y: -22}
@@ -3209,10 +3402,13 @@ CompositeCollider2D:
       - {x: 16, y: -21.937502}
       - {x: 16, y: -22}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     - - {x: 5, y: -22}
       - {x: 5, y: -21.937502}
       - {x: 5.0625, y: -22}
 =======
+=======
+>>>>>>> Stashed changes
     - - {x: 25, y: -22}
       - {x: 25, y: -21.937502}
       - {x: 25.0625, y: -22}
@@ -3222,6 +3418,9 @@ CompositeCollider2D:
       - {x: -7, y: -24.75}
       - {x: -6.75, y: -25}
       - {x: -6.125, y: -25}
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
   m_VertexDistance: 0.0005
 --- !u!50 &1728597488
@@ -5765,7 +5964,11 @@ Tilemap:
   - m_RefCount: 2
     m_Data: {fileID: 11400000, guid: 73b14207bba0a4f4f8829b270551ffcb, type: 2}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   - m_RefCount: 1
+=======
+  - m_RefCount: 3
+>>>>>>> Stashed changes
 =======
   - m_RefCount: 3
 >>>>>>> Stashed changes
@@ -5920,7 +6123,11 @@ Tilemap:
   - m_RefCount: 2
     m_Data: {fileID: 21301464, guid: af6bc9dfbb9b08e4890cf8e4b8dd00c3, type: 3}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   - m_RefCount: 1
+=======
+  - m_RefCount: 3
+>>>>>>> Stashed changes
 =======
   - m_RefCount: 3
 >>>>>>> Stashed changes
@@ -5929,7 +6136,11 @@ Tilemap:
     m_Data: {fileID: 21300224, guid: af6bc9dfbb9b08e4890cf8e4b8dd00c3, type: 3}
   m_TileMatrixArray:
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   - m_RefCount: 256
+=======
+  - m_RefCount: 259
+>>>>>>> Stashed changes
 =======
   - m_RefCount: 259
 >>>>>>> Stashed changes
@@ -5952,7 +6163,11 @@ Tilemap:
       e33: 1
   m_TileColorArray:
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   - m_RefCount: 256
+=======
+  - m_RefCount: 259
+>>>>>>> Stashed changes
 =======
   - m_RefCount: 259
 >>>>>>> Stashed changes
@@ -6031,7 +6246,11 @@ Prefab:
     - target: {fileID: 4808682694148412, guid: cc66753ba7cb11b42ac2677201675871, type: 2}
       propertyPath: m_RootOrder
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       value: 3
+=======
+      value: 4
+>>>>>>> Stashed changes
 =======
       value: 4
 >>>>>>> Stashed changes
@@ -6283,6 +6502,82 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 15
+<<<<<<< Updated upstream
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1916166014
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1916166017}
+  - component: {fileID: 1916166016}
+  - component: {fileID: 1916166015}
+  m_Layer: 0
+  m_Name: Bar Sing
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1916166015
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1916166014}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26afe06bf79788549a3fe6e28bd85479, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  lines:
+  - Zona del Bar
+  isPerson: 0
+  shouldActivateQuest: 0
+  markComplete: 0
+  questToMark: 
+--- !u!61 &1916166016
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1916166014}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0.063566685, y: -0.22248363}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.6356668, y: 1.4449673}
+  m_EdgeRadius: 0
+--- !u!4 &1916166017
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1916166014}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 35.38, y: 1.71, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 16
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+>>>>>>> Stashed changes
+=======
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1916166014
 GameObject:

@@ -1535,6 +1535,45 @@ Tilemap:
     second:
       m_TileIndex: 16
       m_TileSpriteIndex: 15
+<<<<<<< Updated upstream
+      m_TileMatrixIndex: 0
+      m_TileColorIndex: 0
+      m_ObjectToInstantiate: {fileID: 0}
+      m_TileFlags: 1
+      m_ColliderType: 1
+  - first: {x: -8, y: -1, z: 0}
+    second:
+      m_TileIndex: 16
+      m_TileSpriteIndex: 15
+      m_TileMatrixIndex: 0
+      m_TileColorIndex: 0
+      m_ObjectToInstantiate: {fileID: 0}
+      m_TileFlags: 1
+      m_ColliderType: 1
+  - first: {x: -7, y: -1, z: 0}
+    second:
+      m_TileIndex: 5
+      m_TileSpriteIndex: 13
+      m_TileMatrixIndex: 0
+      m_TileColorIndex: 0
+      m_ObjectToInstantiate: {fileID: 0}
+      m_TileFlags: 1
+      m_ColliderType: 1
+  - first: {x: -6, y: -1, z: 0}
+    second:
+      m_TileIndex: 5
+      m_TileSpriteIndex: 13
+      m_TileMatrixIndex: 0
+      m_TileColorIndex: 0
+      m_ObjectToInstantiate: {fileID: 0}
+      m_TileFlags: 1
+      m_ColliderType: 1
+  - first: {x: -5, y: -1, z: 0}
+    second:
+      m_TileIndex: 5
+      m_TileSpriteIndex: 13
+=======
+>>>>>>> Stashed changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -3435,15 +3474,21 @@ Tilemap:
   - m_RefCount: 0
     m_Data: {fileID: 0}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   - m_RefCount: 99
     m_Data: {fileID: 21300000, guid: af6bc9dfbb9b08e4890cf8e4b8dd00c3, type: 3}
   - m_RefCount: 1
     m_Data: {fileID: 21301118, guid: af6bc9dfbb9b08e4890cf8e4b8dd00c3, type: 3}
 =======
+=======
+>>>>>>> Stashed changes
   - m_RefCount: 130
     m_Data: {fileID: 21300000, guid: af6bc9dfbb9b08e4890cf8e4b8dd00c3, type: 3}
   - m_RefCount: 0
     m_Data: {fileID: 0}
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
   m_TileMatrixArray:
   - m_RefCount: 345
@@ -3490,6 +3535,7 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 --- !u!1001 &1207055087
 PrefabInstance:
@@ -3548,6 +3594,8 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d605ec07237d35f4597ed9a8e06f6d62, type: 3}
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 --- !u!1 &1350860693
@@ -3613,7 +3661,11 @@ SpriteRenderer:
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   m_WasSpriteAssigned: 0
+=======
+  m_WasSpriteAssigned: 1
+>>>>>>> Stashed changes
 =======
   m_WasSpriteAssigned: 1
 >>>>>>> Stashed changes
@@ -3626,9 +3678,15 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1350860693}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: -1.5, y: 1, z: 0}
   m_LocalScale: {x: 1.3845, y: 1.3796, z: 1}
+=======
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -3.9256108, y: 0.9934883, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+>>>>>>> Stashed changes
 =======
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -3.9256108, y: 0.9934883, z: 0}
@@ -3703,7 +3761,11 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_UsedByComposite: 0
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   m_Offset: {x: -3.7974, y: 1.1516}
+=======
+  m_Offset: {x: 0, y: 0}
+>>>>>>> Stashed changes
 =======
   m_Offset: {x: 0, y: 0}
 >>>>>>> Stashed changes
@@ -3732,7 +3794,11 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_UsedByComposite: 0
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   m_Offset: {x: -3.7974, y: 1.1516}
+=======
+  m_Offset: {x: -0.010114789, y: -0.030344248}
+>>>>>>> Stashed changes
 =======
   m_Offset: {x: -0.010114789, y: -0.030344248}
 >>>>>>> Stashed changes
@@ -3748,6 +3814,7 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.8221629, y: 2.0501218}
   m_EdgeRadius: 0
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 --- !u!114 &1350860698
 MonoBehaviour:
@@ -3770,6 +3837,10 @@ MonoBehaviour:
   isPerson: 1
 --- !u!1001 &1517002282
 PrefabInstance:
+=======
+--- !u!1001 &1432316924
+Prefab:
+>>>>>>> Stashed changes
 =======
 --- !u!1001 &1432316924
 Prefab:
@@ -4878,6 +4949,90 @@ Tilemap:
       m_ColliderType: 1
   - first: {x: 10, y: 4, z: 0}
     second:
+<<<<<<< Updated upstream
+      m_TileIndex: 67
+      m_TileSpriteIndex: 67
+      m_TileMatrixIndex: 0
+      m_TileColorIndex: 0
+      m_ObjectToInstantiate: {fileID: 0}
+      m_TileFlags: 1
+      m_ColliderType: 1
+  - first: {x: 9, y: 3, z: 0}
+    second:
+      m_TileIndex: 66
+      m_TileSpriteIndex: 66
+      m_TileMatrixIndex: 0
+      m_TileColorIndex: 0
+      m_ObjectToInstantiate: {fileID: 0}
+      m_TileFlags: 1
+      m_ColliderType: 1
+  - first: {x: 10, y: 3, z: 0}
+    second:
+      m_TileIndex: 65
+      m_TileSpriteIndex: 65
+      m_TileMatrixIndex: 0
+      m_TileColorIndex: 0
+      m_ObjectToInstantiate: {fileID: 0}
+      m_TileFlags: 1
+      m_ColliderType: 1
+  - first: {x: 17, y: 3, z: 0}
+    second:
+      m_TileIndex: 50
+      m_TileSpriteIndex: 50
+      m_TileMatrixIndex: 0
+      m_TileColorIndex: 0
+      m_ObjectToInstantiate: {fileID: 0}
+      m_TileFlags: 1
+      m_ColliderType: 1
+  - first: {x: -6, y: 4, z: 0}
+    second:
+      m_TileIndex: 50
+      m_TileSpriteIndex: 50
+      m_TileMatrixIndex: 0
+      m_TileColorIndex: 0
+      m_ObjectToInstantiate: {fileID: 0}
+      m_TileFlags: 1
+      m_ColliderType: 1
+  - first: {x: 6, y: 4, z: 0}
+    second:
+      m_TileIndex: 64
+      m_TileSpriteIndex: 64
+      m_TileMatrixIndex: 0
+      m_TileColorIndex: 0
+      m_ObjectToInstantiate: {fileID: 0}
+      m_TileFlags: 1
+      m_ColliderType: 1
+  - first: {x: 7, y: 4, z: 0}
+    second:
+      m_TileIndex: 63
+      m_TileSpriteIndex: 63
+      m_TileMatrixIndex: 0
+      m_TileColorIndex: 0
+      m_ObjectToInstantiate: {fileID: 0}
+      m_TileFlags: 1
+      m_ColliderType: 1
+  - first: {x: 8, y: 4, z: 0}
+    second:
+      m_TileIndex: 62
+      m_TileSpriteIndex: 62
+      m_TileMatrixIndex: 0
+      m_TileColorIndex: 0
+      m_ObjectToInstantiate: {fileID: 0}
+      m_TileFlags: 1
+      m_ColliderType: 1
+  - first: {x: 9, y: 4, z: 0}
+    second:
+      m_TileIndex: 61
+      m_TileSpriteIndex: 61
+      m_TileMatrixIndex: 0
+      m_TileColorIndex: 0
+      m_ObjectToInstantiate: {fileID: 0}
+      m_TileFlags: 1
+      m_ColliderType: 1
+  - first: {x: 10, y: 4, z: 0}
+    second:
+=======
+>>>>>>> Stashed changes
       m_TileIndex: 60
       m_TileSpriteIndex: 60
       m_TileMatrixIndex: 0

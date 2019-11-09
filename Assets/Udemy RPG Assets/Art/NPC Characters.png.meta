@@ -51,6 +51,9 @@ TextureImporter:
     21300088: NPC Characters_16
     21300090: NPC Characters_17
     21300092: NPC Characters_18
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
   externalObjects: {}
   serializedVersion: 6
@@ -615,6 +618,9 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     outline: []
     physicsShape: []

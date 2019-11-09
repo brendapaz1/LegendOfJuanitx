@@ -199,6 +199,7 @@ Prefab:
   m_IsPrefabAsset: 0
 --- !u!1 &715269979
 GameObject:
+<<<<<<< Updated upstream
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
@@ -243,6 +244,52 @@ BoxCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
+=======
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 715269984}
+  - component: {fileID: 715269983}
+  - component: {fileID: 715269982}
+  - component: {fileID: 715269981}
+  - component: {fileID: 715269980}
+  m_Layer: 0
+  m_Name: NPC Characters_Campesino (2)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &715269980
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 715269979}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26afe06bf79788549a3fe6e28bd85479, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  lines:
+  - n-Campesino
+  - El agua esta muy contaminada
+  - n-Juanitx
+  - Deberia ir al pueblo, asi podra obtener agua limpia
+  - n-Campesino
+  - Lo tendre en mente.
+  isPerson: 1
+  shouldActivateQuest: 0
+  markComplete: 0
+  questToMark: 
+--- !u!61 &715269981
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+>>>>>>> Stashed changes
   m_GameObject: {fileID: 715269979}
   m_Enabled: 1
   m_Density: 1
@@ -261,6 +308,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
   m_Modification:
     m_TransformParent: {fileID: 0}
@@ -305,6 +353,8 @@ BoxCollider2D:
   m_SourcePrefab: {fileID: 100100000, guid: 1b91c1801bfe65547878fed4a9ede12a, type: 2}
   m_IsPrefabAsset: 0
 =======
+=======
+>>>>>>> Stashed changes
   m_Size: {x: 0.75, y: 1}
   m_EdgeRadius: 0
 --- !u!61 &715269982
@@ -391,6 +441,9 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 --- !u!1 &1491376281
 GameObject:

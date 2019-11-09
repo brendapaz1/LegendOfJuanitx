@@ -9,8 +9,12 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     <RootNamespace>
     </RootNamespace>
+=======
+    <RootNamespace></RootNamespace>
+>>>>>>> Stashed changes
 =======
     <RootNamespace></RootNamespace>
 >>>>>>> Stashed changes
@@ -68,6 +72,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
     <Compile Include="Assets\Scripts\AreaEntrence.cs" />
     <Compile Include="Assets\Scripts\AreaExit.cs" />
@@ -341,6 +346,8 @@
       <HintPath>/Applications/Unity/Hub/Editor/2018.4.9f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unity/Boo.Lang.dll</HintPath>
     </Reference>
 =======
+=======
+>>>>>>> Stashed changes
      <Compile Include="Assets\Scripts\AreaEntrence.cs" />
      <Compile Include="Assets\Scripts\AreaExit.cs" />
      <Compile Include="Assets\Scripts\AudioManager.cs" />
@@ -611,6 +618,9 @@
  <Reference Include="Boo.Lang">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2018.2.21f1/Editor/Data/MonoBleedingEdge/lib/mono/unity/Boo.Lang.dll</HintPath>
  </Reference>
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

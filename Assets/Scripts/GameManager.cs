@@ -40,6 +40,19 @@ public class GameManager : MonoBehaviour
         if(Input.GetKeyDown(KeyCode.J))
         {
             PlayerPrefs.DeleteKey("Current_Scene");
+<<<<<<< Updated upstream
+=======
+        }
+
+        if (Input.GetKeyDown(KeyCode.O))
+        {
+            SaveData();
+        }
+
+        if (Input.GetKeyDown(KeyCode.P))
+        {
+            LoadData();
+>>>>>>> Stashed changes
         }
     }
 
