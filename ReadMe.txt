@@ -1,0 +1,1 @@
+Se uso la version 2018.2.21f de Unity. Usar esa version.
