@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class GameMenu : MonoBehaviour {
 
@@ -29,6 +30,7 @@ public class GameMenu : MonoBehaviour {
     public GameObject itemCharChoiceMenu;
     public Text[] itemCharChoiceNames;
 
+    public string mainMenuName;
 
     // Use this for initialization
     void Start () {
@@ -211,5 +213,15 @@ public class GameMenu : MonoBehaviour {
     {
         activeItem.Use(selectChar);
         CloseItemCharChoice();
+    }
+
+    public void QuitGame()
+    {
+        SceneManager.LoadScene(mainMenuName);
+
+        Destroy(GameManager.instance.gameObject);
+        Destroy(PlayerController.instance.gameObject);
+        Destroy(AudioManager.instance.gameObject);
+        Destroy(gameObject);
     }
 }
