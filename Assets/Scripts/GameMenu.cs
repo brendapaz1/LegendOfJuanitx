@@ -224,4 +224,14 @@ public class GameMenu : MonoBehaviour {
         Destroy(AudioManager.instance.gameObject);
         Destroy(gameObject);
     }
+
+    public void QuitGame()
+    {
+        SceneManager.LoadScene(mainMenuName);
+
+        Destroy(GameManager.instance.gameObject);
+        Destroy(PlayerController.instance.gameObject);
+        Destroy(AudioManager.instance.gameObject);
+        Destroy(gameObject);
+    }
 }
