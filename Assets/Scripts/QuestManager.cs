@@ -19,22 +19,22 @@ public class QuestManager : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 
-        if(Input.GetKeyDown(KeyCode.Q))
-        {
-            Debug.Log(CheckIfComplete("quest test"));
-            MarkQuestComplete("quest test");
-            MarkQuestIncomplete("fight the deamon");
-        }
+        //if(Input.GetKeyDown(KeyCode.Q))
+        //{
+        //    Debug.Log(CheckIfComplete("quest test"));
+        //    MarkQuestComplete("quest test");
+        //    MarkQuestIncomplete("fight the deamon");
+        //}
 
-        if(Input.GetKeyDown(KeyCode.O))
-        {
-            SaveQuestData();
-        }
+        //if(Input.GetKeyDown(KeyCode.O))
+        //{
+        //    SaveQuestData();
+        //}
 
-        if(Input.GetKeyDown(KeyCode.P))
-        {
-            LoadQuestData();
-        }
+        //if(Input.GetKeyDown(KeyCode.P))
+        //{
+        //    LoadQuestData();
+        //}
 		
 	}
 

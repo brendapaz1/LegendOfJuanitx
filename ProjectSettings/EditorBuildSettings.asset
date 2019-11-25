@@ -41,4 +41,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/LoadingScene.unity
     guid: 62b4e934741354a4dab0b9bda8e19e19
+  - enabled: 1
+    path: Assets/Scenes/Bosque.unity
+    guid: 3eab917e983a93b4f8efa9cf50c1812b
+  - enabled: 1
+    path: Assets/Scenes/Cave.unity
+    guid: 0d2c2aab80724cd4395a7d0014fded7b
+  - enabled: 1
+    path: Assets/Scenes/Cavana.unity
+    guid: ffb07007680e0894f8afb6dbb47a5286
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 13ba5b7533413654994fd90e7eaebdcd
   m_configObjects: {}

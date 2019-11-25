@@ -8,6 +8,7 @@ public class EssentialsLoader : MonoBehaviour {
     public GameObject player;
     public GameObject gameMan;
     public GameObject audioMan;
+    public GameObject battleMan;
 
     // Use this for initialization
     void Start () {
@@ -31,7 +32,12 @@ public class EssentialsLoader : MonoBehaviour {
         {
             Instantiate(gameMan);
         }
-	}
+
+        if (BattleManager.instance == null)
+        {
+            BattleManager.instance = Instantiate(battleMan).GetComponent<BattleManager>();
+        }
+    }
 	
 	// Update is called once per frame
 	void Update () {

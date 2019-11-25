@@ -55,14 +55,27 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\AreaEntrence.cs" />
      <Compile Include="Assets\Scripts\AreaExit.cs" />
+     <Compile Include="Assets\Scripts\AttackEffect.cs" />
      <Compile Include="Assets\Scripts\AudioManager.cs" />
+     <Compile Include="Assets\Scripts\BattleChar.cs" />
+     <Compile Include="Assets\Scripts\BattleMagicSelect.cs" />
+     <Compile Include="Assets\Scripts\BattleManager.cs" />
+     <Compile Include="Assets\Scripts\BattleMove.cs" />
+     <Compile Include="Assets\Scripts\BattleNotification.cs" />
+     <Compile Include="Assets\Scripts\BattleReward.cs" />
+     <Compile Include="Assets\Scripts\BattleStarter.cs" />
+     <Compile Include="Assets\Scripts\BattleTargetButton.cs" />
+     <Compile Include="Assets\Scripts\BattleType.cs" />
      <Compile Include="Assets\Scripts\CameraController.cs" />
      <Compile Include="Assets\Scripts\CharStats.cs" />
+     <Compile Include="Assets\Scripts\DameNumber.cs" />
+     <Compile Include="Assets\Scripts\DestroyOverLifeTime.cs" />
      <Compile Include="Assets\Scripts\DialogActivator.cs" />
      <Compile Include="Assets\Scripts\DialogManager.cs" />
      <Compile Include="Assets\Scripts\EssentialsLoader.cs" />
      <Compile Include="Assets\Scripts\GameManager.cs" />
      <Compile Include="Assets\Scripts\GameMenu.cs" />
+     <Compile Include="Assets\Scripts\GameOver.cs" />
      <Compile Include="Assets\Scripts\Item.cs" />
      <Compile Include="Assets\Scripts\ItemButton.cs" />
      <Compile Include="Assets\Scripts\Loading.cs" />

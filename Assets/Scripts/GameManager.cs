@@ -10,7 +10,7 @@ public class GameManager : MonoBehaviour
 
     public CharStats[] playerStats;
 
-    public bool gameMenuOpen, dialogActive, fadingBetweenAreas, shopActive;
+    public bool gameMenuOpen, dialogActive, fadingBetweenAreas, shopActive, battleActive;
 
     public string[] itemsHeld;
     public int[] numberOfItems;
@@ -31,7 +31,7 @@ public class GameManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (gameMenuOpen || dialogActive || fadingBetweenAreas|| shopActive)
+        if (gameMenuOpen || dialogActive || fadingBetweenAreas|| shopActive || battleActive)
         {
             PlayerController.instance.canMove = false;
         }
@@ -40,20 +40,20 @@ public class GameManager : MonoBehaviour
             PlayerController.instance.canMove = true;
         }
 
-        if(Input.GetKeyDown(KeyCode.J))
-        {
-            PlayerPrefs.DeleteKey("Current_Scene");
-        }
+        //if(Input.GetKeyDown(KeyCode.J))
+        //{
+        //    PlayerPrefs.DeleteKey("Current_Scene");
+        //}
 
-        if (Input.GetKeyDown(KeyCode.O))
-        {
-            SaveData();
-        }
+        //if (Input.GetKeyDown(KeyCode.O))
+        //{
+        //    SaveData();
+        //}
 
-        if (Input.GetKeyDown(KeyCode.P))
-        {
-            LoadData();
-        }
+        //if (Input.GetKeyDown(KeyCode.P))
+        //{
+        //    LoadData();
+        //}
     }
 
     public Item GetItemDeatils(string itemToGrab)
